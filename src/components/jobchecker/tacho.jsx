@@ -48,7 +48,7 @@ const Tacho = ({ job }) => {
 
       jobRef.current = job;
     }
-  }, [job]);
+  }, [job, angle]);
 
   React.useEffect(() => {
     if (animationRef.current) {
