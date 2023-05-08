@@ -62,8 +62,8 @@ const Tacho = ({ job }) => {
       <defs>
         <mask id="mask-ring">
           <rect x="0" y="0" width="100" height="50" fill="black" />
-          <circle cx="50" cy="50" r="45" fill="white" />
-          <circle cx="50" cy="50" r="35" fill="black" />
+          <circle cx="50" cy="50" r="44" fill="white" />
+          <circle cx="50" cy="50" r="34" fill="black" />
           <rect x="0" y="50" width="100" height="50" fill="black" />
         </mask>
       </defs>
