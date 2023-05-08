@@ -103,6 +103,8 @@ const Tacho = ({ job }) => {
           restart="always"
         />
       </line>
+      <circle cx="50" cy="50" r="2.5" fill="#00345f" />
+      <circle cx="50" cy="50" r="1" fill="white" />
 
       {/* Numbers */}
       {numbers.map(({ formattedValue, angle }) => (
