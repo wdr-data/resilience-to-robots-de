@@ -1,6 +1,8 @@
 import React from "react";
 import Helmet from "react-helmet";
 import Config from "../../gatsby-config";
+import { CssVarsProvider } from "@mui/joy/styles";
+
 import starterConfig from "../../starter-config";
 
 import Header from "../components/header/header.jsx";
@@ -9,6 +11,7 @@ import styles from "./default.module.css";
 import "../css/defaults.css";
 import "../css/colors.css";
 import "../css/typography.css";
+import wdrTheme from "./joyUiTheme";
 import Footer from "../components/footer/footer.jsx";
 import Breadcrumbs from "../components/breadcrumbs/breadcrumbs.jsx";
 import DateFormat from "../components/date/date.jsx";
@@ -147,7 +150,9 @@ const DefaultTemplate = (data) => {
             <DateFormat date={pub_date} />
             <FrontmatterContext.Provider value={frontmatter}>
               <GlobalQuizContext.Provider value={quizContext}>
-                {data.children}
+                <CssVarsProvider theme={wdrTheme}>
+                  {data.children}
+                </CssVarsProvider>
               </GlobalQuizContext.Provider>
             </FrontmatterContext.Provider>
             <StaticQuery

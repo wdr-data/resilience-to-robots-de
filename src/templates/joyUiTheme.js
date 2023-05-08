@@ -1,0 +1,76 @@
+import { extendTheme } from "@mui/joy/styles";
+
+const wdrTheme = extendTheme({
+  colorSchemes: {
+    light: {
+      palette: {
+        primary: {
+          50: "rgb(248 250 251)",
+          100: "rgb(232 237 241)",
+          200: "rgb(215 223 230)",
+          300: "rgb(196 208 218)",
+          400: "rgb(171 188 202)",
+          500: "rgb(139 163 182)",
+          600: "rgb(105 135 161)",
+          700: "rgb(75 112 142)",
+          800: "rgb(51 93 127)",
+          900: "rgb(17 66 106)",
+          950: "rgb(0 40 73)",
+
+          //   solidBg: "#11426A",
+          //   solidActiveBg: "#002849",
+          //   solidHoverBg: "#335D7F",
+          //   solidDisabledBg: "#8BA3B6",
+          //   softColor: "#11426A",
+          //   softBg: "#E8EDF1",
+          //   softHoverBg: "#D7DFE6",
+          //   softActiveBg: "#C4D0DA",
+          //   softDisabledColor: "#ABBCCA",
+          //   plainColor: "#11426A",
+          //   plainHoverBg: "#E8EDF1",
+          //   plainActiveBg: "#D7DFE6",
+          //   plainDisabledColor: "#C4D0DA",
+          //   outlinedColor: "#11426A",
+          //   outlinedBorder: "#8BA3B6",
+          //   outlinedHoverBorder: "#6987A1",
+          //   outlinedHoverBg: "#E8EDF1",
+          //   outlinedActiveBg: "#D7DFE6",
+          //   outlinedDisabledColor: "#ABBCCA",
+          //   outlinedDisabledBorder: "#E8EDF1",
+        },
+        warning: {
+          50: "rgb(252 249 244)",
+          100: "rgb(244 235 219)",
+          200: "rgb(236 220 191)",
+          300: "rgb(227 204 161)",
+          400: "rgb(215 182 119)",
+          500: "rgb(198 152 65)",
+          600: "rgb(180 119 4)",
+          700: "rgb(149 97 0)",
+          800: "rgb(123 80 0)",
+          900: "rgb(88 57 0)",
+          950: "rgb(54 35 0)",
+        },
+        info: {
+          50: "rgb(246 250 251)",
+          100: "rgb(225 239 240)",
+          200: "rgb(203 226 229)",
+          300: "rgb(178 213 217)",
+          400: "rgb(145 194 201)",
+          500: "rgb(101 171 179)",
+          600: "rgb(52 144 155)",
+          700: "rgb(8 119 133)",
+          800: "rgb(0 99 111)",
+          900: "rgb(0 70 79)",
+          950: "rgb(0 44 49)",
+        },
+      },
+    },
+  },
+  fontFamily: {
+    display: "Open Sans",
+    body: "Open Sans",
+  },
+});
+
+export default wdrTheme;

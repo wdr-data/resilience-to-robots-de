@@ -15,9 +15,12 @@
   },
   "dependencies": {
     "@babel/core": "^7.4.5",
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
     "@mdx-js/mdx": "^1.1.0",
     "@mdx-js/react": "^1.0.27",
     "@mdx-js/tag": "^0.20.3",
+    "@mui/joy": "^5.0.0-alpha.78",
     "@react-hook/window-size": "^1.0.13",
     "@vx/axis": "^0.0.196",
     "@vx/gradient": "^0.0.196",
