@@ -56,14 +56,16 @@ const Tacho = ({ job }) => {
 
   return (
     <svg className={styles.tacho} viewBox="0 0 100 55">
+      {/* Mask for the ring */}
       <defs>
-        <mask id="ring">
+        <mask id="mask-ring">
           <rect x="0" y="0" width="100" height="50" fill="black" />
           <circle cx="50" cy="50" r="45" fill="white" />
           <circle cx="50" cy="50" r="35" fill="black" />
           <rect x="0" y="50" width="100" height="50" fill="black" />
         </mask>
       </defs>
+
       {/* Ring */}
       <image
         xlinkHref={tachoGradient}
@@ -71,7 +73,7 @@ const Tacho = ({ job }) => {
         y="0"
         width="100"
         height="100"
-        mask="url(#ring)"
+        mask="url(#mask-ring)"
       />
 
       {/* Needle */}
