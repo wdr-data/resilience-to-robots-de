@@ -12,11 +12,7 @@ const data = dataOriginal.filter(
 );
 
 const filterOptions = (items, { inputValue }) => {
-  console.log(inputValue);
-  return matchSorter(items, inputValue, { keys: ["name", "Fam_Name"] }).slice(
-    0,
-    100,
-  );
+  return matchSorter(items, inputValue, { keys: ["name", "Fam_Name"] });
 };
 
 const riskNumberFormatter = new Intl.NumberFormat("de-DE", {
