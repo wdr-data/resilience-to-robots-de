@@ -25,6 +25,10 @@ const numbers = numberValues.map((value) => {
   return { formattedValue: tachoNumberFormatter.format(value), angle };
 });
 
+// Preload image
+const imgTachoBackground = new Image();
+imgTachoBackground.src = tachoGradient;
+
 const Tacho = ({ job }) => {
   const normalizedValue = (job.share_total - minValue) / (maxValue - minValue);
   const angle = normalizedValue * 180 - 90;
