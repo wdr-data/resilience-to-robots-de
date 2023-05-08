@@ -3,11 +3,6 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-
-  padding: 20px;
-  border-radius: 16px;
-  border: 3px solid var(--brand-primary);
-  margin: 40px 0;
 }
 
 .autocomplete {
@@ -28,10 +23,24 @@
 }
 
 .tacho {
-  width: 60%;
+  width: 100%;
+  max-width: 450px;
 }
 
 .riskNumber {
   font-size: 2rem;
   margin-top: 0;
+}
+
+@media screen and (min-width: 800px) {
+  .tacho {
+    width: 65%;
+  }
+
+  .container {
+    padding: 20px;
+    border-radius: 16px;
+    border: 3px solid var(--brand-primary);
+    margin: 40px 0;
+  }
 }
