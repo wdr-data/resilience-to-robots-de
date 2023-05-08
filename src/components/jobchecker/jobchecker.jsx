@@ -4,6 +4,7 @@ import Autocomplete from "@mui/joy/Autocomplete";
 import data from "../../../data/ai_occupations_deepl.json";
 import styles from "./jobchecker.module.css";
 import { matchSorter } from "match-sorter";
+import Tacho from "./tacho";
 
 const filterOptions = (items, { inputValue }) => {
   console.log(inputValue);
@@ -38,7 +39,9 @@ const JobChecker = () => {
         <div className={styles.job}>
           <h3 className={styles.jobName}>{job.name}</h3>
           <h4>Automationsrisikoindex</h4>
-          <div className={styles.tempomat}></div>
+          <div className={styles.tacho}>
+            <Tacho job={job} />
+          </div>
           <p>Ihr Beruf hat einen Automationsrisikoindex von</p>
           <p className={styles.riskNumber}>
             {riskNumberFormatter.format(job.share_total)}
