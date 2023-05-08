@@ -1,4 +1,4 @@
-import React, { useCallback, useMemo, useState } from "react";
+import React, { useCallback, useState } from "react";
 import Autocomplete from "@mui/joy/Autocomplete";
 
 import dataOriginal from "../../../data/ai_occupations_deepl.json";
