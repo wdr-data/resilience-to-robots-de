@@ -50,6 +50,7 @@ const JobChecker = () => {
         placeholder="Beruf suchen..."
         startDecorator={<IconSearch />}
         autoSelect
+        blurOnSelect
         className={styles.autocomplete}
         options={data}
         getOptionLabel={(option) => option.name}
