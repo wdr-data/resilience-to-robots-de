@@ -20,7 +20,9 @@
     "@mdx-js/mdx": "^1.1.0",
     "@mdx-js/react": "^1.0.27",
     "@mdx-js/tag": "^0.20.3",
+    "@mui/icons-material": "^5.11.16",
     "@mui/joy": "^5.0.0-alpha.78",
+    "@mui/material": "npm:@mui/joy@latest",
     "@react-hook/window-size": "^1.0.13",
     "@vx/axis": "^0.0.196",
     "@vx/gradient": "^0.0.196",
@@ -74,5 +76,8 @@
     "request-promise-native": "^1.0.8",
     "serve": "^11.3.0",
     "url-loader": "^2.0.1"
+  },
+  "resolutions": {
+    "@mui/material": "npm:@mui/joy@latest"
   }
 }

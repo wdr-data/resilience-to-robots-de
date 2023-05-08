@@ -1,5 +1,6 @@
 import React, { useCallback, useState } from "react";
 import Autocomplete from "@mui/joy/Autocomplete";
+import IconSearch from "@mui/icons-material/Search";
 
 import dataOriginal from "../../../data/ai_occupations_deepl.json";
 import styles from "./jobchecker.module.css";
@@ -29,6 +30,9 @@ const JobChecker = () => {
   return (
     <div className={styles.container}>
       <Autocomplete
+        variant="soft"
+        placeholder="Beruf suchen..."
+        startDecorator={<IconSearch />}
         autoSelect
         className={styles.autocomplete}
         options={data}
