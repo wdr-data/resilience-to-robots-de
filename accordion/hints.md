@@ -4,4 +4,4 @@ Diese Seite verwendet Webtrekk und ATI, um Daten über das Interaktions- und Nut
 
 ### Fehler melden
 
-Für Hinweise und die Meldung von Fehlern schreiben Sie uns an [data@wdr.de](mailto:data@wdr.de).
+Für Hinweise und die Meldung von Fehlern schreiben Sie uns an [wdraktuell@wdr.de](mailto:wdraktuell@wdr.de).
