@@ -1,5 +1,6 @@
 import React from "react";
 
+import tachoGradient from "./tacho-gradient.png";
 import styles from "./tacho.module.css";
 
 const minValue = 0.43;
@@ -38,12 +39,12 @@ const Tacho = ({ job }) => {
         </mask>
       </defs>
       {/* Ring */}
-      <rect
+      <image
+        xlinkHref={tachoGradient}
         x="0"
         y="0"
         width="100"
         height="100"
-        fill="#b37500"
         mask="url(#ring)"
       />
 
