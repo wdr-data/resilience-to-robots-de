@@ -6,6 +6,11 @@ import styles from "./tacho.module.css";
 const minValue = 0.43;
 const maxValue = 0.78;
 
+const tachoNumberFormatter = new Intl.NumberFormat("de-DE", {
+  minimumFractionDigits: 2,
+  maximumFractionDigits: 2,
+});
+
 // Generate numbers interpolated between min and max
 const numberCount = 6;
 const numberValues = Array.from({ length: numberCount }).map((_, i) => {
@@ -17,16 +22,12 @@ const numberValues = Array.from({ length: numberCount }).map((_, i) => {
 const numbers = numberValues.map((value) => {
   const normalizedValue = (value - minValue) / (maxValue - minValue);
   const angle = normalizedValue * 180 - 90;
-  const x = 50 + 45 * Math.cos((angle * Math.PI) / 180);
-  const y = 50 + 45 * Math.sin((angle * Math.PI) / 180);
-  return { value, x, y, angle };
+  return { formattedValue: tachoNumberFormatter.format(value), angle };
 });
 
 const Tacho = ({ job }) => {
   const normalizedValue = (job.share_total - minValue) / (maxValue - minValue);
-  const angle = normalizedValue * 180 - 180;
-  const x = 50 + 45 * Math.cos((angle * Math.PI) / 180);
-  const y = 50 + 45 * Math.sin((angle * Math.PI) / 180);
+  const angle = normalizedValue * 180 - 90;
 
   return (
     <svg className={styles.tacho} viewBox="0 0 100 55">
@@ -52,16 +53,17 @@ const Tacho = ({ job }) => {
       <line
         x1="50"
         y1="50"
-        x2={x}
-        y2={y}
+        x2="50"
+        y2="5"
+        transform={`rotate(${angle} 50 50)`}
         stroke="#00345f"
         strokeWidth="2"
         strokeLinecap="round"
       />
 
       {/* Numbers */}
-      {numbers.map(({ value, x, y, angle }) => (
-        <g key={value}>
+      {numbers.map(({ formattedValue, angle }) => (
+        <g key={formattedValue}>
           <text
             x="50"
             y="2.5"
@@ -72,7 +74,7 @@ const Tacho = ({ job }) => {
             fontSize="4"
             fontWeight={"bold"}
           >
-            {value.toFixed(2)}
+            {formattedValue}
           </text>
         </g>
       ))}
