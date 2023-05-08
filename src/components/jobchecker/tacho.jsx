@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useRef, useState } from "react";
 
 import tachoGradient from "./tacho-gradient.png";
 import styles from "./tacho.module.css";
@@ -11,6 +11,8 @@ const tachoNumberFormatter = new Intl.NumberFormat("de-DE", {
   maximumFractionDigits: 2,
 });
 
+const normalizeValue = (value) => (value - minValue) / (maxValue - minValue);
+
 // Generate numbers interpolated between min and max
 const numberCount = 6;
 const numberValues = Array.from({ length: numberCount }).map((_, i) => {
@@ -20,8 +22,7 @@ const numberValues = Array.from({ length: numberCount }).map((_, i) => {
 });
 
 const numbers = numberValues.map((value) => {
-  const normalizedValue = (value - minValue) / (maxValue - minValue);
-  const angle = normalizedValue * 180 - 90;
+  const angle = normalizeValue(value) * 180 - 90;
   return { formattedValue: tachoNumberFormatter.format(value), angle };
 });
 
@@ -30,8 +31,28 @@ const imgTachoBackground = new Image();
 imgTachoBackground.src = tachoGradient;
 
 const Tacho = ({ job }) => {
-  const normalizedValue = (job.share_total - minValue) / (maxValue - minValue);
-  const angle = normalizedValue * 180 - 90;
+  const [angle, setAngle] = useState(-90);
+  const [previusAngle, setPreviusAngle] = useState(-90);
+
+  const animationRef = useRef(null);
+  const jobRef = useRef(null);
+
+  React.useEffect(() => {
+    if (jobRef.current !== job) {
+      // Calculate the angle for the new job and animate the needle
+      const newAngle = normalizeValue(job.share_total) * 180 - 90;
+      setPreviusAngle(angle);
+      setAngle(newAngle);
+
+      jobRef.current = job;
+    }
+  }, [job]);
+
+  React.useEffect(() => {
+    if (animationRef.current) {
+      animationRef.current.beginElement();
+    }
+  }, [angle]);
 
   return (
     <svg className={styles.tacho} viewBox="0 0 100 55">
@@ -59,11 +80,25 @@ const Tacho = ({ job }) => {
         y1="50"
         x2="50"
         y2="5"
-        transform={`rotate(${angle} 50 50)`}
         stroke="#00345f"
         strokeWidth="2"
         strokeLinecap="round"
-      />
+      >
+        <animateTransform
+          ref={animationRef}
+          attributeName="transform"
+          attributeType="XML"
+          type="rotate"
+          from={`${previusAngle} 50 50`}
+          to={`${angle} 50 50`}
+          dur="500ms"
+          calcMode="spline"
+          keySplines="0.5 0 0.5 1"
+          keyTimes={"0; 1"}
+          fill="freeze"
+          restart="always"
+        />
+      </line>
 
       {/* Numbers */}
       {numbers.map(({ formattedValue, angle }) => (
