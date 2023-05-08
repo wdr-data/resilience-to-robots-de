@@ -1,9 +1,9 @@
 {
-  "name": "ddj-starter",
+  "name": "resilience-to-robots-de",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/wdr-data/ddj-starter",
-  "author": "Christine <christine.gotth@gmail.com>",
+  "repository": "https://github.com/wdr-data/resilience-to-robots-de",
+  "author": "Jannes Höke <mail@jhoeke.de>",
   "license": "MIT",
   "scripts": {
     "build": "run-p -n --aggregate-output videos build-gatsby",
