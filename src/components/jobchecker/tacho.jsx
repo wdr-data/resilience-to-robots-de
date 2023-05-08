@@ -27,8 +27,10 @@ const numbers = numberValues.map((value) => {
 });
 
 // Preload image
-const imgTachoBackground = new Image();
-imgTachoBackground.src = tachoGradient;
+if (typeof window !== "undefined") {
+  const imgTachoBackground = new Image();
+  imgTachoBackground.src = tachoGradient;
+}
 
 const Tacho = ({ job }) => {
   const [angle, setAngle] = useState(-90);
