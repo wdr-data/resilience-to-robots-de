@@ -85,7 +85,7 @@ const Tacho = ({ job }) => {
         x2="50"
         y2="5"
         stroke="#00345f"
-        strokeWidth="2"
+        strokeWidth="1"
         strokeLinecap="round"
       >
         <animateTransform
@@ -103,7 +103,7 @@ const Tacho = ({ job }) => {
           restart="always"
         />
       </line>
-      <circle cx="50" cy="50" r="2.5" fill="#00345f" />
+      <circle cx="50" cy="50" r="2" fill="#00345f" />
       <circle cx="50" cy="50" r="1" fill="white" />
 
       {/* Numbers */}
