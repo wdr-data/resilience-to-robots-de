@@ -17,6 +17,7 @@ pageType: "Interaktive Webanwendung"
 editorialDepartment: "Newsroom"
 ---
 
+import JobChecker from '../components/jobchecker/jobchecker.jsx'
 import DataWrapper from '../components/datawrapper/datawrapper.jsx'
 import Quote from '../components/quote/quote.jsx'
 import Webtrekk from '../components/webtrekk/webtrekk.jsx'
@@ -27,5 +28,7 @@ import { Link, LinkList } from '../components/link/link.jsx'
 import { Quiz, Image as QuizImage, Question, Answer, Result, Score as QuizScore } from '../components/quiz/quiz.jsx'
 
 # KI Resilienz
+Irure quis occaecat labore est magna non aute cupidatat. Veniam est laborum sint labore deserunt ut proident officia minim ullamco cillum sit. Officia dolor incididunt officia elit anim sit et do deserunt irure tempor amet cillum pariatur.
+<JobChecker />
 
 <Sharing twitter facebook mail whatsapp telegram reddit xing linkedin />
