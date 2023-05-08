@@ -1,10 +1,15 @@
 import React, { useCallback, useMemo, useState } from "react";
 import Autocomplete from "@mui/joy/Autocomplete";
 
-import data from "../../../data/ai_occupations_deepl.json";
+import dataOriginal from "../../../data/ai_occupations_deepl.json";
 import styles from "./jobchecker.module.css";
 import { matchSorter } from "match-sorter";
 import Tacho from "./tacho";
+
+// Filter duplicate job names
+const data = dataOriginal.filter(
+  (job, index, self) => self.findIndex((j) => j.name === job.name) === index,
+);
 
 const filterOptions = (items, { inputValue }) => {
   console.log(inputValue);
