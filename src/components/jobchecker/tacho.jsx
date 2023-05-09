@@ -120,7 +120,7 @@ const Tacho = ({ job }) => {
         fontSize="4"
         fontWeight="bold"
       >
-        Niedrig
+        niedrig
       </text>
       <text
         x="89"
@@ -131,7 +131,7 @@ const Tacho = ({ job }) => {
         fontSize="4"
         fontWeight="bold"
       >
-        Hoch
+        hoch
       </text>
       <text
         x="50"
@@ -142,7 +142,7 @@ const Tacho = ({ job }) => {
         fontSize="4"
         fontWeight="bold"
       >
-        Erhöht
+        erhöht
       </text>
     </svg>
   );
