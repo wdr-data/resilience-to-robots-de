@@ -3,7 +3,8 @@ import React from "react";
 
 const QUERY = "(prefers-reduced-motion: no-preference)";
 
-const getInitialState = () => !window.matchMedia(QUERY).matches;
+const getInitialState = () =>
+  typeof window !== "undefined" ? !window.matchMedia(QUERY).matches : true;
 
 export function usePrefersReducedMotion () {
   const [prefersReducedMotion, setPrefersReducedMotion] =
