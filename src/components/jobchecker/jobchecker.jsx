@@ -95,7 +95,7 @@ const JobChecker = () => {
         <div className={styles.job}>
           <h3 className={styles.jobName}>{job.name}</h3>
           <p className={styles.riskNumber}>
-            Automationsrisikoindex:{" "}
+            Automations-Risiko-Index:{" "}
             {riskNumberFormatter.format(job.share_total)}
           </p>
           <div className={styles.tacho}>
