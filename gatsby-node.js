@@ -13,7 +13,7 @@ exports.onCreateWebpackConfig = ({ stage, actions }) => {
           },
         },
         {
-          test: /node_modules\\react-collapsed\\dist\\index.mjs/,
+          test: /.*\\react-collapsed\\dist\\index.mjs/,
           type: "javascript/auto",
           use: {
             loader: "babel-loader",
