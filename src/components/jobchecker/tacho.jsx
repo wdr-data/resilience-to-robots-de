@@ -10,12 +10,6 @@ const maxValue = 0.78;
 
 const normalizeValue = (value) => (value - minValue) / (maxValue - minValue);
 
-// Preload image
-if (typeof window !== "undefined") {
-  const imgTachoBackground = new Image();
-  imgTachoBackground.src = tachoGradient;
-}
-
 const Tacho = ({ job }) => {
   const [angle, setAngle] = useState(-90);
   const [previusAngle, setPreviusAngle] = useState(-90);
