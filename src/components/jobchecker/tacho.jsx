@@ -8,25 +8,7 @@ import styles from "./tacho.module.css";
 const minValue = 0.43;
 const maxValue = 0.78;
 
-const tachoNumberFormatter = new Intl.NumberFormat("de-DE", {
-  minimumFractionDigits: 2,
-  maximumFractionDigits: 2,
-});
-
 const normalizeValue = (value) => (value - minValue) / (maxValue - minValue);
-
-// Generate numbers interpolated between min and max
-const numberCount = 6;
-const numberValues = Array.from({ length: numberCount }).map((_, i) => {
-  const normalizedValue = i / (numberCount - 1);
-  const value = normalizedValue * (maxValue - minValue) + minValue;
-  return value;
-});
-
-const numbers = numberValues.map((value) => {
-  const angle = normalizeValue(value) * 180 - 90;
-  return { formattedValue: tachoNumberFormatter.format(value), angle };
-});
 
 // Preload image
 if (typeof window !== "undefined") {
@@ -60,7 +42,7 @@ const Tacho = ({ job }) => {
   }, [angle]);
 
   return (
-    <svg className={styles.tacho} viewBox="0 0 100 55">
+    <svg className={styles.tacho} viewBox="3 0 94 55">
       {/* Mask for the ring */}
       <defs>
         <mask id="mask-ring">
@@ -128,23 +110,40 @@ const Tacho = ({ job }) => {
       <circle cx="50" cy="50" r="2" fill="#00345f" />
       <circle cx="50" cy="50" r="1" fill="rgb(196 208 218)" />
 
-      {/* Numbers */}
-      {numbers.map(({ formattedValue, angle }) => (
-        <g key={formattedValue}>
-          <text
-            x="50"
-            y="2.5"
-            textAnchor="middle"
-            dominantBaseline="middle"
-            transform={`rotate(${angle} 50 50)`}
-            fill="#00345f"
-            fontSize="4"
-            fontWeight={"bold"}
-          >
-            {formattedValue}
-          </text>
-        </g>
-      ))}
+      {/* Text */}
+      <text
+        x="11"
+        y="50.5"
+        textAnchor="middle"
+        dominantBaseline="hanging"
+        fill="#00345f"
+        fontSize="4"
+        fontWeight="bold"
+      >
+        Niedrig
+      </text>
+      <text
+        x="89"
+        y="50.5"
+        textAnchor="middle"
+        dominantBaseline="hanging"
+        fill="#00345f"
+        fontSize="4"
+        fontWeight="bold"
+      >
+        Hoch
+      </text>
+      <text
+        x="50"
+        y="0.5"
+        textAnchor="middle"
+        dominantBaseline="hanging"
+        fill="#00345f"
+        fontSize="4"
+        fontWeight="bold"
+      >
+        Erhöht
+      </text>
     </svg>
   );
 };
