@@ -1,4 +1,4 @@
-import React, { useCallback, useState } from "react";
+import React, { useCallback, useEffect, useState } from "react";
 import Autocomplete from "@mui/joy/Autocomplete";
 import classNames from "classnames";
 
@@ -7,10 +7,12 @@ import styles from "./jobchecker.module.css";
 import { matchSorter } from "match-sorter";
 import Tacho from "./tacho";
 
-// Filter duplicate job names
-const data = dataOriginal.filter(
-  (job, index, self) => self.findIndex((j) => j.name === job.name) === index,
-);
+// Filter duplicate job names and sort alphabetically
+const data = dataOriginal
+  .filter(
+    (job, index, self) => self.findIndex((j) => j.name === job.name) === index,
+  )
+  .sort((a, b) => a.name.localeCompare(b.name));
 
 const filterOptions = (items, { inputValue }) => {
   return matchSorter(items, inputValue, { keys: ["name", "Fam_Name"] });
@@ -38,12 +40,41 @@ const IconSearch = () => (
   </svg>
 );
 
+const IconArrowRight = () => (
+  <svg
+    style={{
+      display: "block",
+      width: "24px",
+      height: "24px",
+      fill: "currentColor",
+    }}
+    focusable="false"
+    aria-hidden="true"
+    viewBox="0 0 24 24"
+    data-testid="ArrowForwardIcon"
+  >
+    <path d="m12 4-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z"></path>
+  </svg>
+);
+
 const JobChecker = () => {
   const [job, setJob] = useState(null);
+  const [previousJob, setPreviousJob] = useState(null);
+  const [nextJob, setNextJob] = useState(null);
+
   const handleSelect = useCallback((ev, job) => {
     if (!job) return;
     setJob(job);
   }, []);
+
+  useEffect(() => {
+    if (!job) return;
+    const index = data.findIndex((j) => j.name === job.name);
+
+    setPreviousJob(index > 0 ? data[index - 1] : null);
+    setNextJob(index < data.length - 1 ? data[index + 1] : null);
+  }, [job]);
+
   return (
     <div className={styles.container}>
       <Autocomplete
@@ -67,6 +98,14 @@ const JobChecker = () => {
           </p>
           <div className={styles.tacho}>
             <Tacho job={job} />
+          </div>
+          <div className={styles.navigation}>
+            <button disabled={!previousJob} onClick={() => setJob(previousJob)}>
+              <IconArrowRight /> Vorheriger
+            </button>
+            <button disabled={!nextJob} onClick={() => setJob(nextJob)}>
+              Nächster <IconArrowRight />
+            </button>
           </div>
         </div>
       ) : (

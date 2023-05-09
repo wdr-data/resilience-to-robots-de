@@ -35,6 +35,27 @@
   max-width: 450px;
 }
 
+.navigation {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+
+  margin-top: 1.5rem;
+}
+
+.navigation button {
+  font-size: 1rem;
+}
+
+.navigation button:first-child svg {
+  transform: rotate(180deg);
+  margin-right: 0.5rem;
+}
+
+.navigation button:last-child svg {
+  margin-left: 0.5rem;
+}
+
 @media screen and (min-width: 800px) {
   .tacho {
     width: 65%;
