@@ -40,7 +40,7 @@ const Tacho = ({ job }) => {
   const jobRef = useRef(null);
 
   React.useEffect(() => {
-    if (jobRef.current !== job) {
+    if (job && jobRef.current !== job) {
       // Calculate the angle for the new job and animate the needle
       const newAngle = normalizeValue(job.share_total) * 180 - 90;
       setPreviusAngle(angle);
@@ -88,20 +88,35 @@ const Tacho = ({ job }) => {
         strokeWidth="1"
         strokeLinecap="round"
       >
-        <animateTransform
-          ref={animationRef}
-          attributeName="transform"
-          attributeType="XML"
-          type="rotate"
-          from={`${previusAngle} 50 50`}
-          to={`${angle} 50 50`}
-          dur="500ms"
-          calcMode="spline"
-          keySplines="0.5 0 0.5 1"
-          keyTimes={"0; 1"}
-          fill="freeze"
-          restart="always"
-        />
+        {job ? (
+          <animateTransform
+            ref={animationRef}
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from={`${previusAngle} 50 50`}
+            to={`${angle} 50 50`}
+            dur="500ms"
+            calcMode="spline"
+            keySplines="0.5 0 0.5 1"
+            keyTimes="0; 1"
+            fill="freeze"
+            restart="always"
+          />
+        ) : (
+          <animateTransform
+            ref={animationRef}
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            values="-90.5 50 50; -89.5 50 50; -90.5 50 50"
+            dur="150ms"
+            // calcMode="spline"
+            // keySplines="0.5 0 0.5 1; 0.5 0 0.5 1"
+            // keyTimes="0; 0.5; 1"
+            repeatCount="indefinite"
+          />
+        )}
       </line>
       <circle cx="50" cy="50" r="2" fill="#00345f" />
       <circle cx="50" cy="50" r="1" fill="rgb(196 208 218)" />
