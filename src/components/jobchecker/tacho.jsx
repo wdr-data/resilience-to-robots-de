@@ -42,7 +42,7 @@ const Tacho = ({ job }) => {
   }, [angle]);
 
   return (
-    <svg className={styles.tacho} viewBox="3 0 94 55">
+    <svg className={styles.tacho} viewBox="3 0 94 56">
       {/* Mask for the ring */}
       <defs>
         <mask id="mask-ring">
@@ -113,7 +113,7 @@ const Tacho = ({ job }) => {
       {/* Text */}
       <text
         x="11"
-        y="50.5"
+        y="51"
         textAnchor="middle"
         dominantBaseline="hanging"
         fill="#00345f"
@@ -124,7 +124,7 @@ const Tacho = ({ job }) => {
       </text>
       <text
         x="89"
-        y="50.5"
+        y="51"
         textAnchor="middle"
         dominantBaseline="hanging"
         fill="#00345f"
