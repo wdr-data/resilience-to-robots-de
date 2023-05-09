@@ -12485,6 +12485,13 @@ react-accessible-accordion@^3.0.0:
   resolved "https://registry.yarnpkg.com/react-accessible-accordion/-/react-accessible-accordion-3.3.4.tgz#84b08015e74d6b3b225e0101b518b2ea8969e292"
   integrity sha512-EUq+KmVRIIG5u1fR5XIbb2JU7w7NouLjuyfuPvnhuDIfNNWNYap1I8ijn2rdA6OQi1gGSRGbVzHs+3wxH/M0Sw==
 
+react-collapsed@^4.0.2:
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/react-collapsed/-/react-collapsed-4.0.2.tgz#5f2b2f9695c6f3858b44771dc36fa40f63b8fa51"
+  integrity sha512-mzGhppOLzW3PGtU+RlSYPANpShYd5wt6LdFWnDgHy/asyIfQT8BHDognr5sYFPouXiHPwGWUtQ6ZfI5jd7bU6Q==
+  dependencies:
+    tiny-warning "^1.0.3"
+
 react-datawrapper-chart@^1.0.2:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/react-datawrapper-chart/-/react-datawrapper-chart-1.1.0.tgz#96b5a44262ffe1479f3925e96b33b5e3836308f0"
@@ -14752,6 +14759,11 @@ timsort@^0.3.0:
   version "0.3.0"
   resolved "https://registry.yarnpkg.com/timsort/-/timsort-0.3.0.tgz#405411a8e7e6339fe64db9a234de11dc31e02bd4"
   integrity sha1-QFQRqOfmM5/mTbmiNN4R3DHgK9Q=
+
+tiny-warning@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/tiny-warning/-/tiny-warning-1.0.3.tgz#94a30db453df4c643d0fd566060d60a875d84754"
+  integrity sha512-lBN9zLN/oAf68o3zNXYrdCt1kP8WsiGW8Oo2ka41b2IM5JL/S1CTyX1rW0mb/zSuJun0ZUrDxx4sqvYS2FWzPA==
 
 tinycolor2@^1.4.1:
   version "1.4.2"

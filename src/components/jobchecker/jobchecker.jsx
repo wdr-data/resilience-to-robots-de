@@ -1,11 +1,13 @@
 import React, { useCallback, useEffect, useState } from "react";
 import Autocomplete from "@mui/joy/Autocomplete";
 import classNames from "classnames";
+import { matchSorter } from "match-sorter";
+
+import Tacho from "./tacho";
+import Infobox from "./infobox";
 
 import dataOriginal from "../../../data/ai_occupations_deepl.json";
 import styles from "./jobchecker.module.css";
-import { matchSorter } from "match-sorter";
-import Tacho from "./tacho";
 
 // Filter duplicate job names and sort alphabetically
 const data = dataOriginal
@@ -118,17 +120,7 @@ const JobChecker = () => {
           </div>
         </div>
       )}
-      <p>
-        Lesen Sie mehr zu der Methodik hinter dem Automationsrisikoindex{" "}
-        <a
-          href="https://lis2.epfl.ch/resiliencetorobots/#/doc/index"
-          target="_blank"
-          rel="noreferrer noopener"
-        >
-          hier
-        </a>
-        .
-      </p>
+      <Infobox />
     </div>
   );
 };
