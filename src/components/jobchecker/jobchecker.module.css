@@ -22,14 +22,17 @@
   text-align: center;
 }
 
+.riskNumber {
+  font-size: 1.25rem;
+  margin-top: 0;
+}
+.noJob {
+  margin-top: 1.5rem;
+}
+
 .tacho {
   width: 100%;
   max-width: 450px;
-}
-
-.riskNumber {
-  font-size: 2rem;
-  margin-top: 0;
 }
 
 @media screen and (min-width: 800px) {

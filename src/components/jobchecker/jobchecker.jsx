@@ -1,5 +1,6 @@
 import React, { useCallback, useState } from "react";
 import Autocomplete from "@mui/joy/Autocomplete";
+import classNames from "classnames";
 
 import dataOriginal from "../../../data/ai_occupations_deepl.json";
 import styles from "./jobchecker.module.css";
@@ -57,17 +58,25 @@ const JobChecker = () => {
         onChange={handleSelect}
         filterOptions={filterOptions}
       />
-      {job && (
+      {job ? (
         <div className={styles.job}>
           <h3 className={styles.jobName}>{job.name}</h3>
-          <h4>Automationsrisikoindex</h4>
+          <p className={styles.riskNumber}>
+            Automationsrisikoindex:{" "}
+            {riskNumberFormatter.format(job.share_total)}
+          </p>
           <div className={styles.tacho}>
             <Tacho job={job} />
           </div>
-          <p>Ihr Beruf hat einen Automationsrisikoindex von</p>
-          <p className={styles.riskNumber}>
-            {riskNumberFormatter.format(job.share_total)}
+        </div>
+      ) : (
+        <div className={styles.job}>
+          <p className={classNames(styles.riskNumber, styles.noJob)}>
+            Jetzt einen Beruf suchen!
           </p>
+          <div className={styles.tacho}>
+            <Tacho />
+          </div>
         </div>
       )}
       <p>
