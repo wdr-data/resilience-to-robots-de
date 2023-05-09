@@ -1,5 +1,7 @@
 import React, { useRef, useState } from "react";
 
+import usePrefersReducedMotion from "../../hooks/use-prefers-reduced-motion";
+
 import tachoGradient from "./tacho-gradient.png";
 import styles from "./tacho.module.css";
 
@@ -36,6 +38,7 @@ const Tacho = ({ job }) => {
   const [angle, setAngle] = useState(-90);
   const [previusAngle, setPreviusAngle] = useState(-90);
 
+  const prefersReducedMotion = usePrefersReducedMotion();
   const animationRef = useRef(null);
   const jobRef = useRef(null);
 
@@ -87,36 +90,40 @@ const Tacho = ({ job }) => {
         stroke="#00345f"
         strokeWidth="1"
         strokeLinecap="round"
+        transform={
+          prefersReducedMotion ? `rotate(${angle} 50 50)` : "rotate(-90 50 50)"
+        }
       >
-        {job ? (
-          <animateTransform
-            ref={animationRef}
-            attributeName="transform"
-            attributeType="XML"
-            type="rotate"
-            from={`${previusAngle} 50 50`}
-            to={`${angle} 50 50`}
-            dur="500ms"
-            calcMode="spline"
-            keySplines="0.5 0 0.5 1"
-            keyTimes="0; 1"
-            fill="freeze"
-            restart="always"
-          />
-        ) : (
-          <animateTransform
-            ref={animationRef}
-            attributeName="transform"
-            attributeType="XML"
-            type="rotate"
-            values="-90.5 50 50; -89.5 50 50; -90.5 50 50"
-            dur="150ms"
-            // calcMode="spline"
-            // keySplines="0.5 0 0.5 1; 0.5 0 0.5 1"
-            // keyTimes="0; 0.5; 1"
-            repeatCount="indefinite"
-          />
-        )}
+        {!prefersReducedMotion &&
+          (job ? (
+            <animateTransform
+              ref={animationRef}
+              attributeName="transform"
+              attributeType="XML"
+              type="rotate"
+              from={`${previusAngle} 50 50`}
+              to={`${angle} 50 50`}
+              dur="500ms"
+              calcMode="spline"
+              keySplines="0.5 0 0.5 1"
+              keyTimes="0; 1"
+              fill="freeze"
+              restart="always"
+            />
+          ) : (
+            <animateTransform
+              ref={animationRef}
+              attributeName="transform"
+              attributeType="XML"
+              type="rotate"
+              values="-90.5 50 50; -89.5 50 50; -90.5 50 50"
+              dur="150ms"
+              // calcMode="spline"
+              // keySplines="0.5 0 0.5 1; 0.5 0 0.5 1"
+              // keyTimes="0; 0.5; 1"
+              repeatCount="indefinite"
+            />
+          ))}
       </line>
       <circle cx="50" cy="50" r="2" fill="#00345f" />
       <circle cx="50" cy="50" r="1" fill="rgb(196 208 218)" />
