@@ -1,3 +1,5 @@
+const path = require("node:path");
+
 exports.onCreateWebpackConfig = ({ stage, actions }) => {
   console.log("hello gatsby", stage);
   actions.setWebpackConfig({
@@ -13,7 +15,10 @@ exports.onCreateWebpackConfig = ({ stage, actions }) => {
           },
         },
         {
-          test: /.*\\react-collapsed\\dist\\index.mjs/,
+          test: path.resolve(
+            __dirname,
+            "node_modules/react-collapsed/dist/index.mjs",
+          ),
           type: "javascript/auto",
           use: {
             loader: "babel-loader",
