@@ -6,7 +6,7 @@ import { matchSorter } from "match-sorter";
 import Tacho from "./tacho";
 import Infobox from "./infobox";
 
-import dataOriginal from "../../../data/ai_occupations_deepl.json";
+import dataOriginal from "../../../data/ai_occupations_selected.json";
 import styles from "./jobchecker.module.css";
 
 // Filter duplicate job names and sort alphabetically

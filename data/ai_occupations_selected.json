@@ -1,0 +1,1940 @@
+[
+    {
+        "id": "13-2011.01",
+        "name": "Buchhalter/in",
+        "share_total": 0.59,
+        "Fam_Name": "Berufe im Bereich Wirtschaft und Finanzen"
+    },
+    {
+        "id": "27-2011.00",
+        "name": "Schauspieler/in",
+        "share_total": 0.61,
+        "Fam_Name": "Berufe in den Bereichen Kunst, Design, Unterhaltung, Sport und Medien"
+    },
+    {
+        "id": "15-2011.00",
+        "name": "Versicherungsmathematiker/in",
+        "share_total": 0.54,
+        "Fam_Name": "Computer- und mathematische Berufe"
+    },
+    {
+        "id": "29-1199.01",
+        "name": "Akupunkteur/in (Heilpraktiker)",
+        "share_total": 0.61,
+        "Fam_Name": "Praktiker im Gesundheitswesen und technische Berufe"
+    },
+    {
+        "id": "25-3011.00",
+        "name": "Lehrer/in in der Erwachsenenbildung",
+        "share_total": 0.57,
+        "Fam_Name": "Bildung, Ausbildung und bibliothekarische Berufe"
+    },
+    {
+        "id": "41-3011.00",
+        "name": "Werbekaufmann/-frau",
+        "share_total": 0.58,
+        "Fam_Name": "Verkauf und verwandte Berufe"
+    },
+    {
+        "id": "11-2011.00",
+        "name": "Marketing-Manager/in",
+        "share_total": 0.54,
+        "Fam_Name": "Management-Berufe"
+    },
+    {
+        "id": "17-3021.00",
+        "name": "Luftfahrt-, Raumfahrttechniker/in",
+        "share_total": 0.61,
+        "Fam_Name": "Architektur- und Ingenieurberufe"
+    },
+    {
+        "id": "17-2011.00",
+        "name": "Luftfahrt-, Raumfahrtingenieur/in",
+        "share_total": 0.54,
+        "Fam_Name": "Architektur- und Ingenieurberufe"
+    },
+    {
+        "id": "13-1011.00",
+        "name": "Agent/in / Manager/in von Künstlern, Darstellern und Sportlern",
+        "share_total": 0.58,
+        "Fam_Name": "Berufe im Bereich Wirtschaft und Finanzen"
+    },
+    {
+        "id": "17-2021.00",
+        "name": "Agraringenieur/in",
+        "share_total": 0.58,
+        "Fam_Name": "Architektur- und Ingenieurberufe"
+    },
+    {
+        "id": "45-2091.00",
+        "name": "Maschinenführer/in in der Landwirtschaft",
+        "share_total": 0.69,
+        "Fam_Name": "Berufe in der Landwirtschaft, Fischerei und Forstwirtschaft"
+    },
+    {
+        "id": "25-1041.00",
+        "name": "Hochschullehrer/in für Agrarwissenschaften",
+        "share_total": 0.57,
+        "Fam_Name": "Bildung, Ausbildung und bibliothekarische Berufe"
+    },
+    {
+        "id": "19-4011.01",
+        "name": "Techniker/in in der Landwirtschaft",
+        "share_total": 0.63,
+        "Fam_Name": "Lebens-, körper- und sozialwissenschaftliche Berufe"
+    },
+    {
+        "id": "53-2021.00",
+        "name": "Fluglotse/-in",
+        "share_total": 0.53,
+        "Fam_Name": "Berufe im Bereich Transport und Materialtransport"
+    },
+    {
+        "id": "53-1011.00",
+        "name": "Leiter/in in der Luftfrachtabfertigung",
+        "share_total": 0.63,
+        "Fam_Name": "Berufe im Bereich Transport und Materialtransport"
+    },
+    {
+        "id": "49-3011.00",
+        "name": "Flugzeugmechaniker/in",
+        "share_total": 0.6,
+        "Fam_Name": "Berufe im Bereich Installation, Wartung und Reparatur"
+    },
+    {
+        "id": "53-2011.00",
+        "name": "Pilot/in, Kopilot/in, Flugingenieur/in",
+        "share_total": 0.55,
+        "Fam_Name": "Berufe im Bereich Transport und Materialtransport"
+    },
+    {
+        "id": "29-1061.00",
+        "name": "Anästhesist/in (Ärzte)",
+        "share_total": 0.58,
+        "Fam_Name": "Praktiker im Gesundheitswesen und technische Berufe"
+    },
+    {
+        "id": "45-2021.00",
+        "name": "Tierzüchter/in",
+        "share_total": 0.68,
+        "Fam_Name": "Berufe in der Landwirtschaft, Fischerei und Forstwirtschaft"
+    },
+    {
+        "id": "39-2011.00",
+        "name": "Tiertrainer/in",
+        "share_total": 0.64,
+        "Fam_Name": "Persönliche Pflege- und Dienstleistungsberufe"
+    },
+    {
+        "id": "19-3091.01",
+        "name": "Anthropologe/-in",
+        "share_total": 0.52,
+        "Fam_Name": "Lebens-, körper- und sozialwissenschaftliche Berufe"
+    },
+    {
+        "id": "13-2021.02",
+        "name": "Immobiliengutachter/in",
+        "share_total": 0.63,
+        "Fam_Name": "Berufe im Bereich Wirtschaft und Finanzen"
+    },
+    {
+        "id": "23-1022.00",
+        "name": "Mediator/in, Schiedsmann/-frau, Schlichter/in",
+        "share_total": 0.55,
+        "Fam_Name": "Juristische Berufe"
+    },
+    {
+        "id": "19-3091.02",
+        "name": "Archäologe/-in",
+        "share_total": 0.56,
+        "Fam_Name": "Lebens-, körper- und sozialwissenschaftliche Berufe"
+    },
+    {
+        "id": "17-1011.00",
+        "name": "Architekt/in",
+        "share_total": 0.53,
+        "Fam_Name": "Architektur- und Ingenieurberufe"
+    },
+    {
+        "id": "17-3011.01",
+        "name": "Bauzeichner/in",
+        "share_total": 0.58,
+        "Fam_Name": "Architektur- und Ingenieurberufe"
+    },
+    {
+        "id": "25-1031.00",
+        "name": "Hochschullehrer/in für Architektur, Chemie, Fremdsprachen, Literatur",
+        "share_total": 0.54,
+        "Fam_Name": "Bildung, Ausbildung und bibliothekarische Berufe"
+    },
+    {
+        "id": "25-4011.00",
+        "name": "Archivar/in",
+        "share_total": 0.59,
+        "Fam_Name": "Bildung, Ausbildung und bibliothekarische Berufe"
+    },
+    {
+        "id": "27-1011.00",
+        "name": "Art Director",
+        "share_total": 0.56,
+        "Fam_Name": "Berufe in den Bereichen Kunst, Design, Unterhaltung, Sport und Medien"
+    },
+    {
+        "id": "29-1125.01",
+        "name": "Kunsttherapeut/in",
+        "share_total": 0.57,
+        "Fam_Name": "Praktiker im Gesundheitswesen und technische Berufe"
+    },
+    {
+        "id": "19-2011.00",
+        "name": "Astronom/in",
+        "share_total": 0.52,
+        "Fam_Name": "Lebens-, körper- und sozialwissenschaftliche Berufe"
+    },
+    {
+        "id": "29-9091.00",
+        "name": "Trainer/in (Sport)",
+        "share_total": 0.59,
+        "Fam_Name": "Praktiker im Gesundheitswesen und technische Berufe"
+    },
+    {
+        "id": "13-2011.02",
+        "name": "Wirtschaftsprüfer/in",
+        "share_total": 0.56,
+        "Fam_Name": "Berufe im Bereich Wirtschaft und Finanzen"
+    },
+    {
+        "id": "17-2141.02",
+        "name": "Ingenieur/in in der Fahrzeugtechnik (Autoingenieure)",
+        "share_total": 0.55,
+        "Fam_Name": "Architektur- und Ingenieurberufe"
+    },
+    {
+        "id": "49-3023.01",
+        "name": "Kfz-Meistermechaniker/in (Automechaniker)",
+        "share_total": 0.63,
+        "Fam_Name": "Berufe im Bereich Installation, Wartung und Reparatur"
+    },
+    {
+        "id": "49-2091.00",
+        "name": "Luftfahrttechniker/in",
+        "share_total": 0.61,
+        "Fam_Name": "Berufe im Bereich Installation, Wartung und Reparatur"
+    },
+    {
+        "id": "39-6011.00",
+        "name": "Hotelpage/-in",
+        "share_total": 0.72,
+        "Fam_Name": "Persönliche Pflege- und Dienstleistungsberufe"
+    },
+    {
+        "id": "33-3011.00",
+        "name": "Gerichtsvollzieher/in",
+        "share_total": 0.69,
+        "Fam_Name": "Berufe im Bereich Schutzdienstleistungen"
+    },
+    {
+        "id": "51-3011.00",
+        "name": "Bäcker/in",
+        "share_total": 0.69,
+        "Fam_Name": "Produktionsberufe"
+    },
+    {
+        "id": "39-5011.00",
+        "name": "Barber / Herrenfriseur/in",
+        "share_total": 0.7,
+        "Fam_Name": "Persönliche Pflege- und Dienstleistungsberufe"
+    },
+    {
+        "id": "35-3022.01",
+        "name": "Barista",
+        "share_total": 0.71,
+        "Fam_Name": "Berufe in der Lebensmittelzubereitung und -verpflegung"
+    },
+    {
+        "id": "35-3011.00",
+        "name": "Barkeeper/in",
+        "share_total": 0.66,
+        "Fam_Name": "Berufe in der Lebensmittelzubereitung und -verpflegung"
+    },
+    {
+        "id": "49-3091.00",
+        "name": "Fahrradmonteur/in (Reparatur)",
+        "share_total": 0.64,
+        "Fam_Name": "Berufe im Bereich Installation, Wartung und Reparatur"
+    },
+    {
+        "id": "17-2199.01",
+        "name": "Ingenieur/in in der Biochemie",
+        "share_total": 0.57,
+        "Fam_Name": "Architektur- und Ingenieurberufe"
+    },
+    {
+        "id": "19-1021.00",
+        "name": "Biochemiker/in, Biophysiker/in",
+        "share_total": 0.51,
+        "Fam_Name": "Lebens-, körper- und sozialwissenschaftliche Berufe"
+    },
+    {
+        "id": "19-4021.00",
+        "name": "Biotechniker/in",
+        "share_total": 0.61,
+        "Fam_Name": "Lebens-, körper- und sozialwissenschaftliche Berufe"
+    },
+    {
+        "id": "19-1020.01",
+        "name": "Biologe/-in",
+        "share_total": 0.56,
+        "Fam_Name": "Lebens-, körper- und sozialwissenschaftliche Berufe"
+    },
+    {
+        "id": "17-2031.00",
+        "name": "Ingenieur/in in der Biomedizin",
+        "share_total": 0.53,
+        "Fam_Name": "Architektur- und Ingenieurberufe"
+    },
+    {
+        "id": "43-3031.00",
+        "name": "Sachbearbeiter/in für Buchhaltung und Rechnungswesen",
+        "share_total": 0.67,
+        "Fam_Name": "Büro- und administrative Hilfsberufe"
+    },
+    {
+        "id": "47-2021.00",
+        "name": "Maurer/in, Steinmetz/in",
+        "share_total": 0.7,
+        "Fam_Name": "Bau- und Gewinnungsberufe"
+    },
+    {
+        "id": "27-4012.00",
+        "name": "Radio-, Fernsehtechniker/in",
+        "share_total": 0.61,
+        "Fam_Name": "Berufe in den Bereichen Kunst, Design, Unterhaltung, Sport und Medien"
+    },
+    {
+        "id": "53-3022.00",
+        "name": "Busfahrer/in",
+        "share_total": 0.67,
+        "Fam_Name": "Berufe im Bereich Transport und Materialtransport"
+    },
+    {
+        "id": "53-3021.00",
+        "name": "Fernbusfahrer/in",
+        "share_total": 0.69,
+        "Fam_Name": "Berufe im Bereich Transport und Materialtransport"
+    },
+    {
+        "id": "49-3031.00",
+        "name": "Bus- und Lkw-Mechaniker/in (Automechaniker)",
+        "share_total": 0.65,
+        "Fam_Name": "Berufe im Bereich Installation, Wartung und Reparatur"
+    },
+    {
+        "id": "25-1011.00",
+        "name": "Hochschullehrer/in für Wirtschaft, Biologie, Geografie, Kunst",
+        "share_total": 0.55,
+        "Fam_Name": "Bildung, Ausbildung und bibliothekarische Berufe"
+    },
+    {
+        "id": "51-3021.00",
+        "name": "Metzger/in / Fleischer/in",
+        "share_total": 0.69,
+        "Fam_Name": "Produktionsberufe"
+    },
+    {
+        "id": "51-7011.00",
+        "name": "Tischler/in und Schreiner/in",
+        "share_total": 0.67,
+        "Fam_Name": "Produktionsberufe"
+    },
+    {
+        "id": "27-4031.00",
+        "name": "Kameramann/-frau (Fernsehen, Film)",
+        "share_total": 0.63,
+        "Fam_Name": "Berufe in den Bereichen Kunst, Design, Unterhaltung, Sport und Medien"
+    },
+    {
+        "id": "25-2023.00",
+        "name": "Berufsschullehrer/in",
+        "share_total": 0.6,
+        "Fam_Name": "Bildung, Ausbildung und bibliothekarische Berufe"
+    },
+    {
+        "id": "43-5011.00",
+        "name": "Speditionskaufmann/-frau",
+        "share_total": 0.62,
+        "Fam_Name": "Büro- und administrative Hilfsberufe"
+    },
+    {
+        "id": "47-2041.00",
+        "name": "Teppichverleger/in",
+        "share_total": 0.69,
+        "Fam_Name": "Bau- und Gewinnungsberufe"
+    },
+    {
+        "id": "17-1021.00",
+        "name": "Kartograph/in",
+        "share_total": 0.61,
+        "Fam_Name": "Architektur- und Ingenieurberufe"
+    },
+    {
+        "id": "41-2011.00",
+        "name": "Kassierer/in (Verkäufer)",
+        "share_total": 0.72,
+        "Fam_Name": "Verkauf und verwandte Berufe"
+    },
+    {
+        "id": "47-2051.00",
+        "name": "Betonbauer/in",
+        "share_total": 0.71,
+        "Fam_Name": "Bau- und Gewinnungsberufe"
+    },
+    {
+        "id": "35-1011.00",
+        "name": "Chefkoch/-köchin und Küchenchef/in",
+        "share_total": 0.62,
+        "Fam_Name": "Berufe in der Lebensmittelzubereitung und -verpflegung"
+    },
+    {
+        "id": "17-2041.00",
+        "name": "Chemieingenieur/in",
+        "share_total": 0.52,
+        "Fam_Name": "Architektur- und Ingenieurberufe"
+    },
+    {
+        "id": "19-4031.00",
+        "name": "Chemietechniker/in",
+        "share_total": 0.61,
+        "Fam_Name": "Lebens-, körper- und sozialwissenschaftliche Berufe"
+    },
+    {
+        "id": "19-2031.00",
+        "name": "Chemiker/in",
+        "share_total": 0.59,
+        "Fam_Name": "Lebens-, körper- und sozialwissenschaftliche Berufe"
+    },
+    {
+        "id": "11-1011.00",
+        "name": "Geschäftsführer/in eines Unternehmens",
+        "share_total": 0.5,
+        "Fam_Name": "Management-Berufe"
+    },
+    {
+        "id": "21-1021.00",
+        "name": "Sozialarbeiter/in im Bereich Kinder, Familie, Schule",
+        "share_total": 0.58,
+        "Fam_Name": "Gemeinschaftliche und soziale Dienstleistungsberufe"
+    },
+    {
+        "id": "27-2032.00",
+        "name": "Choreograph/in",
+        "share_total": 0.62,
+        "Fam_Name": "Berufe in den Bereichen Kunst, Design, Unterhaltung, Sport und Medien"
+    },
+    {
+        "id": "17-3011.02",
+        "name": "Bauzeichner/in",
+        "share_total": 0.61,
+        "Fam_Name": "Architektur- und Ingenieurberufe"
+    },
+    {
+        "id": "17-3022.00",
+        "name": "Bautechniker/in (Tiefbau)",
+        "share_total": 0.62,
+        "Fam_Name": "Architektur- und Ingenieurberufe"
+    },
+    {
+        "id": "17-2051.00",
+        "name": "Bauingenieur/in",
+        "share_total": 0.54,
+        "Fam_Name": "Architektur- und Ingenieurberufe"
+    },
+    {
+        "id": "53-7061.00",
+        "name": "Fahrzeugaufbereiter/in / Fahrzeugreiniger/in",
+        "share_total": 0.75,
+        "Fam_Name": "Berufe im Bereich Transport und Materialtransport"
+    },
+    {
+        "id": "19-3031.02",
+        "name": "Klinische/r Psychologe/-in",
+        "share_total": 0.53,
+        "Fam_Name": "Lebens-, körper- und sozialwissenschaftliche Berufe"
+    },
+    {
+        "id": "35-3021.00",
+        "name": "Servicekraft in der Gastronomie",
+        "share_total": 0.72,
+        "Fam_Name": "Berufe in der Lebensmittelzubereitung und -verpflegung"
+    },
+    {
+        "id": "49-9092.00",
+        "name": "Berufstaucher/in",
+        "share_total": 0.63,
+        "Fam_Name": "Berufe im Bereich Installation, Wartung und Reparatur"
+    },
+    {
+        "id": "53-2012.00",
+        "name": "Pilot/in",
+        "share_total": 0.58,
+        "Fam_Name": "Berufe im Bereich Transport und Materialtransport"
+    },
+    {
+        "id": "27-1021.00",
+        "name": "Produkt-, Industriedesigner/in",
+        "share_total": 0.56,
+        "Fam_Name": "Berufe in den Bereichen Kunst, Design, Unterhaltung, Sport und Medien"
+    },
+    {
+        "id": "11-9199.02",
+        "name": "Compliance-Manager/in",
+        "share_total": 0.57,
+        "Fam_Name": "Management-Berufe"
+    },
+    {
+        "id": "17-2061.00",
+        "name": "Hardware-Ingenieur/in (IT/Computer)",
+        "share_total": 0.58,
+        "Fam_Name": "Architektur- und Ingenieurberufe"
+    },
+    {
+        "id": "15-1152.00",
+        "name": "Netzwerk-Spezialist/in (Computer)",
+        "share_total": 0.59,
+        "Fam_Name": "Computer- und mathematische Berufe"
+    },
+    {
+        "id": "15-1131.00",
+        "name": "IT-Softwareentwickler/in, Programmierer/in",
+        "share_total": 0.59,
+        "Fam_Name": "Computer- und mathematische Berufe"
+    },
+    {
+        "id": "25-1021.00",
+        "name": "Hochschullehrer/in für Informatik",
+        "share_total": 0.56,
+        "Fam_Name": "Bildung, Ausbildung und bibliothekarische Berufe"
+    },
+    {
+        "id": "15-1121.00",
+        "name": "IT-Systemanalytiker/in",
+        "share_total": 0.56,
+        "Fam_Name": "Computer- und mathematische Berufe"
+    },
+    {
+        "id": "15-1151.00",
+        "name": "IT-Support-Spezialist/in",
+        "share_total": 0.61,
+        "Fam_Name": "Computer- und mathematische Berufe"
+    },
+    {
+        "id": "39-6012.00",
+        "name": "Pförtner/in, Concierge",
+        "share_total": 0.63,
+        "Fam_Name": "Persönliche Pflege- und Dienstleistungsberufe"
+    },
+    {
+        "id": "47-2031.01",
+        "name": "Zimmerer/-in",
+        "share_total": 0.67,
+        "Fam_Name": "Bau- und Gewinnungsberufe"
+    },
+    {
+        "id": "47-2061.00",
+        "name": "Bauhelfer/in (Bauarbeiter)",
+        "share_total": 0.7,
+        "Fam_Name": "Bau- und Gewinnungsberufe"
+    },
+    {
+        "id": "11-9021.00",
+        "name": "Bauleiter/in, Baumanager/in",
+        "share_total": 0.56,
+        "Fam_Name": "Management-Berufe"
+    },
+    {
+        "id": "35-2011.00",
+        "name": "Koch/Köchin in der Fast-Food-Gastronomie",
+        "share_total": 0.74,
+        "Fam_Name": "Berufe in der Lebensmittelzubereitung und -verpflegung"
+    },
+    {
+        "id": "35-2012.00",
+        "name": "Koch/Köchin in Kantinen, Mensen etc.",
+        "share_total": 0.66,
+        "Fam_Name": "Berufe in der Lebensmittelzubereitung und -verpflegung"
+    },
+    {
+        "id": "35-2014.00",
+        "name": "Koch/Köchin im Restaurant",
+        "share_total": 0.68,
+        "Fam_Name": "Berufe in der Lebensmittelzubereitung und -verpflegung"
+    },
+    {
+        "id": "27-3043.04",
+        "name": "Werbetexter/in",
+        "share_total": 0.58,
+        "Fam_Name": "Berufe in den Bereichen Kunst, Design, Unterhaltung, Sport und Medien"
+    },
+    {
+        "id": "13-1041.06",
+        "name": "Gerichtsmediziner/in",
+        "share_total": 0.58,
+        "Fam_Name": "Berufe im Bereich Wirtschaft und Finanzen"
+    },
+    {
+        "id": "33-3012.00",
+        "name": "Justizvollzugsbeamter/-in und Strafvollzugsbedienstete/r",
+        "share_total": 0.64,
+        "Fam_Name": "Berufe im Bereich Schutzdienstleistungen"
+    },
+    {
+        "id": "43-5021.00",
+        "name": "Kurier/in und Bote/-in",
+        "share_total": 0.72,
+        "Fam_Name": "Büro- und administrative Hilfsberufe"
+    },
+    {
+        "id": "43-4031.01",
+        "name": "Gerichtsbedienstete/r",
+        "share_total": 0.62,
+        "Fam_Name": "Büro- und administrative Hilfsberufe"
+    },
+    {
+        "id": "27-1012.00",
+        "name": "Kunsthandwerker/in",
+        "share_total": 0.66,
+        "Fam_Name": "Berufe in den Bereichen Kunst, Design, Unterhaltung, Sport und Medien"
+    },
+    {
+        "id": "53-7021.00",
+        "name": "Kranführer/in",
+        "share_total": 0.67,
+        "Fam_Name": "Berufe im Bereich Transport und Materialtransport"
+    },
+    {
+        "id": "13-2041.00",
+        "name": "Kreditanalyst/in",
+        "share_total": 0.6,
+        "Fam_Name": "Berufe im Bereich Wirtschaft und Finanzen"
+    },
+    {
+        "id": "13-2071.00",
+        "name": "Kreditberater/in",
+        "share_total": 0.58,
+        "Fam_Name": "Berufe im Bereich Wirtschaft und Finanzen"
+    },
+    {
+        "id": "33-3021.03",
+        "name": "Kriminalbeamter/-in (Polizei)",
+        "share_total": 0.6,
+        "Fam_Name": "Berufe im Bereich Schutzdienstleistungen"
+    },
+    {
+        "id": "29-1141.03",
+        "name": "Intensivkrankenpfleger/in",
+        "share_total": 0.58,
+        "Fam_Name": "Praktiker im Gesundheitswesen und technische Berufe"
+    },
+    {
+        "id": "27-2031.00",
+        "name": "Tänzer/in",
+        "share_total": 0.66,
+        "Fam_Name": "Berufe in den Bereichen Kunst, Design, Unterhaltung, Sport und Medien"
+    },
+    {
+        "id": "31-9091.00",
+        "name": "Zahnmedizinischer Fachangestellte/r",
+        "share_total": 0.66,
+        "Fam_Name": "Hilfsberufe im Gesundheitswesen"
+    },
+    {
+        "id": "29-1021.00",
+        "name": "Zahnarzt/-ärztin",
+        "share_total": 0.55,
+        "Fam_Name": "Praktiker im Gesundheitswesen und technische Berufe"
+    },
+    {
+        "id": "27-2012.02",
+        "name": "Regisseur/in (Theater, Film, Fernsehen, Hörspiel)",
+        "share_total": 0.58,
+        "Fam_Name": "Berufe in den Bereichen Kunst, Design, Unterhaltung, Sport und Medien"
+    },
+    {
+        "id": "25-1063.00",
+        "name": "Hochschullehrer/in für Wirtschaft",
+        "share_total": 0.57,
+        "Fam_Name": "Bildung, Ausbildung und bibliothekarische Berufe"
+    },
+    {
+        "id": "19-3011.00",
+        "name": "Wirtschaftswissenschaftler/in",
+        "share_total": 0.57,
+        "Fam_Name": "Lebens-, körper- und sozialwissenschaftliche Berufe"
+    },
+    {
+        "id": "27-3041.00",
+        "name": "Redakteur/in (u.a. Journalismus)",
+        "share_total": 0.56,
+        "Fam_Name": "Berufe in den Bereichen Kunst, Design, Unterhaltung, Sport und Medien"
+    },
+    {
+        "id": "17-3023.03",
+        "name": "Elektrotechniker/in",
+        "share_total": 0.61,
+        "Fam_Name": "Architektur- und Ingenieurberufe"
+    },
+    {
+        "id": "17-2071.00",
+        "name": "Elektroingenieur/in",
+        "share_total": 0.58,
+        "Fam_Name": "Architektur- und Ingenieurberufe"
+    },
+    {
+        "id": "47-2111.00",
+        "name": "Elektriker/in",
+        "share_total": 0.62,
+        "Fam_Name": "Bau- und Gewinnungsberufe"
+    },
+    {
+        "id": "17-2072.00",
+        "name": "Elektronikingenieur/in",
+        "share_total": 0.59,
+        "Fam_Name": "Architektur- und Ingenieurberufe"
+    },
+    {
+        "id": "25-2021.00",
+        "name": "Grundschullehrer/in",
+        "share_total": 0.58,
+        "Fam_Name": "Bildung, Ausbildung und bibliothekarische Berufe"
+    },
+    {
+        "id": "29-2041.00",
+        "name": "Notfall-, Rettungssanitäter/in, Rettungsassistent/in",
+        "share_total": 0.6,
+        "Fam_Name": "Praktiker im Gesundheitswesen und technische Berufe"
+    },
+    {
+        "id": "51-2031.00",
+        "name": "Maschinenmonteur/in",
+        "share_total": 0.68,
+        "Fam_Name": "Produktionsberufe"
+    },
+    {
+        "id": "17-2081.00",
+        "name": "Umweltingenieur/in",
+        "share_total": 0.54,
+        "Fam_Name": "Architektur- und Ingenieurberufe"
+    },
+    {
+        "id": "19-1041.00",
+        "name": "Epidemiologe/-in",
+        "share_total": 0.51,
+        "Fam_Name": "Lebens-, körper- und sozialwissenschaftliche Berufe"
+    },
+    {
+        "id": "43-6011.00",
+        "name": "Sekretär/in, Verwaltungsassistent/in der Geschäftsleitung",
+        "share_total": 0.6,
+        "Fam_Name": "Büro- und administrative Hilfsberufe"
+    },
+    {
+        "id": "29-1062.00",
+        "name": "Hausarzt/-ärztin, Allgemeinmediziner/in",
+        "share_total": 0.55,
+        "Fam_Name": "Praktiker im Gesundheitswesen und technische Berufe"
+    },
+    {
+        "id": "49-3041.00",
+        "name": "Mechaniker/in und Servicetechniker/in für landwirtschaftliche Geräte",
+        "share_total": 0.64,
+        "Fam_Name": "Berufe im Bereich Installation, Wartung und Reparatur"
+    },
+    {
+        "id": "45-2092.02",
+        "name": "Erntehelfer/in, Helfer/in in der Landwirtschaft",
+        "share_total": 0.69,
+        "Fam_Name": "Berufe in der Landwirtschaft, Fischerei und Forstwirtschaft"
+    },
+    {
+        "id": "27-1022.00",
+        "name": "Modedesigner/in",
+        "share_total": 0.58,
+        "Fam_Name": "Berufe in den Bereichen Kunst, Design, Unterhaltung, Sport und Medien"
+    },
+    {
+        "id": "27-4032.00",
+        "name": "Cutter/in, Film- und Video-Editor/in",
+        "share_total": 0.6,
+        "Fam_Name": "Berufe in den Bereichen Kunst, Design, Unterhaltung, Sport und Medien"
+    },
+    {
+        "id": "13-2051.00",
+        "name": "Finanzanalyst/in",
+        "share_total": 0.6,
+        "Fam_Name": "Berufe im Bereich Wirtschaft und Finanzen"
+    },
+    {
+        "id": "13-2061.00",
+        "name": "Wirtschaftsprüfer/in",
+        "share_total": 0.55,
+        "Fam_Name": "Berufe im Bereich Wirtschaft und Finanzen"
+    },
+    {
+        "id": "27-1013.00",
+        "name": "Bildende/r Künstler/in (Maler, Bildhauer, Illustratoren)",
+        "share_total": 0.65,
+        "Fam_Name": "Berufe in den Bereichen Kunst, Design, Unterhaltung, Sport und Medien"
+    },
+    {
+        "id": "45-3011.00",
+        "name": "Fischer/in",
+        "share_total": 0.68,
+        "Fam_Name": "Berufe in der Landwirtschaft, Fischerei und Forstwirtschaft"
+    },
+    {
+        "id": "39-9031.00",
+        "name": "Fitnesstrainer/in",
+        "share_total": 0.66,
+        "Fam_Name": "Persönliche Pflege- und Dienstleistungsberufe"
+    },
+    {
+        "id": "53-2031.00",
+        "name": "Flugbegleiter/in, Steward/ess",
+        "share_total": 0.67,
+        "Fam_Name": "Berufe im Bereich Transport und Materialtransport"
+    },
+    {
+        "id": "51-3092.00",
+        "name": "Produktionsmitarbeiter/in in der Lebenmittelherstellung",
+        "share_total": 0.69,
+        "Fam_Name": "Produktionsberufe"
+    },
+    {
+        "id": "35-2021.00",
+        "name": "Mitarbeiter/in in der Lebensmittelzubereitung",
+        "share_total": 0.75,
+        "Fam_Name": "Berufe in der Lebensmittelzubereitung und -verpflegung"
+    },
+    {
+        "id": "19-1032.00",
+        "name": "Förster/in",
+        "share_total": 0.59,
+        "Fam_Name": "Lebens-, körper- und sozialwissenschaftliche Berufe"
+    },
+    {
+        "id": "43-5011.01",
+        "name": "Spediteur/in",
+        "share_total": 0.59,
+        "Fam_Name": "Büro- und administrative Hilfsberufe"
+    },
+    {
+        "id": "39-4021.00",
+        "name": "Bestattungshelfer/in",
+        "share_total": 0.68,
+        "Fam_Name": "Persönliche Pflege- und Dienstleistungsberufe"
+    },
+    {
+        "id": "51-7021.00",
+        "name": "Möbelrestaurator/in",
+        "share_total": 0.67,
+        "Fam_Name": "Produktionsberufe"
+    },
+    {
+        "id": "11-1021.00",
+        "name": "Betriebsleiter/in",
+        "share_total": 0.58,
+        "Fam_Name": "Management-Berufe"
+    },
+    {
+        "id": "19-3092.00",
+        "name": "Geograph/in",
+        "share_total": 0.54,
+        "Fam_Name": "Lebens-, körper- und sozialwissenschaftliche Berufe"
+    },
+    {
+        "id": "19-2042.00",
+        "name": "Geowissenschaftler/in",
+        "share_total": 0.58,
+        "Fam_Name": "Lebens-, körper- und sozialwissenschaftliche Berufe"
+    },
+    {
+        "id": "49-9099.01",
+        "name": "Geothermietechniker/in",
+        "share_total": 0.64,
+        "Fam_Name": "Berufe im Bereich Installation, Wartung und Reparatur"
+    },
+    {
+        "id": "51-9195.04",
+        "name": "Glasbläser/in, Glasapparatebauer/in",
+        "share_total": 0.66,
+        "Fam_Name": "Produktionsberufe"
+    },
+    {
+        "id": "47-2121.00",
+        "name": "Glaser/in",
+        "share_total": 0.7,
+        "Fam_Name": "Bau- und Gewinnungsberufe"
+    },
+    {
+        "id": "27-1024.00",
+        "name": "Grafikdesigner/in",
+        "share_total": 0.6,
+        "Fam_Name": "Berufe in den Bereichen Kunst, Design, Unterhaltung, Sport und Medien"
+    },
+    {
+        "id": "51-9022.00",
+        "name": "Schleifer/in, Metallschleifer/in, Polierer/in",
+        "share_total": 0.69,
+        "Fam_Name": "Produktionsberufe"
+    },
+    {
+        "id": "39-5012.00",
+        "name": "Friseur/in, Hairstylist/in, Kosmetiker/in",
+        "share_total": 0.64,
+        "Fam_Name": "Persönliche Pflege- und Dienstleistungsberufe"
+    },
+    {
+        "id": "29-2092.00",
+        "name": "Hörgerätespezialist/in",
+        "share_total": 0.61,
+        "Fam_Name": "Praktiker im Gesundheitswesen und technische Berufe"
+    },
+    {
+        "id": "49-9021.01",
+        "name": "Techniker/in für Heizungs-, Lüftungs- und Klimatechnik",
+        "share_total": 0.64,
+        "Fam_Name": "Berufe im Bereich Installation, Wartung und Reparatur"
+    },
+    {
+        "id": "53-3032.00",
+        "name": "Lkw-Fahrer/in, Berufskraftfahrer/in",
+        "share_total": 0.66,
+        "Fam_Name": "Berufe im Bereich Transport und Materialtransport"
+    },
+    {
+        "id": "47-3011.00",
+        "name": "Maurer- und Fliesenleger-Helfer/in",
+        "share_total": 0.72,
+        "Fam_Name": "Bau- und Gewinnungsberufe"
+    },
+    {
+        "id": "47-3012.00",
+        "name": "Schreiner-Helfer/in",
+        "share_total": 0.71,
+        "Fam_Name": "Bau- und Gewinnungsberufe"
+    },
+    {
+        "id": "47-3013.00",
+        "name": "Elektro-Helfer/in",
+        "share_total": 0.7,
+        "Fam_Name": "Bau- und Gewinnungsberufe"
+    },
+    {
+        "id": "47-3014.00",
+        "name": "Maler-Helfer/in",
+        "share_total": 0.74,
+        "Fam_Name": "Bau- und Gewinnungsberufe"
+    },
+    {
+        "id": "47-3015.00",
+        "name": "Klempner-Helfer/in",
+        "share_total": 0.73,
+        "Fam_Name": "Bau- und Gewinnungsberufe"
+    },
+    {
+        "id": "51-9198.00",
+        "name": "Produktionshelfer/in",
+        "share_total": 0.74,
+        "Fam_Name": "Produktionsberufe"
+    },
+    {
+        "id": "47-3016.00",
+        "name": "Dachdecker-Helfer/in",
+        "share_total": 0.71,
+        "Fam_Name": "Bau- und Gewinnungsberufe"
+    },
+    {
+        "id": "19-3093.00",
+        "name": "Historiker/in",
+        "share_total": 0.58,
+        "Fam_Name": "Lebens-, körper- und sozialwissenschaftliche Berufe"
+    },
+    {
+        "id": "25-1125.00",
+        "name": "Hochschullehrer/in für Geschichte",
+        "share_total": 0.54,
+        "Fam_Name": "Bildung, Ausbildung und bibliothekarische Berufe"
+    },
+    {
+        "id": "29-1069.03",
+        "name": "Arzt/Ärztin im Krankenhaus (generell)",
+        "share_total": 0.53,
+        "Fam_Name": "Praktiker im Gesundheitswesen und technische Berufe"
+    },
+    {
+        "id": "43-4161.00",
+        "name": "Assistent/in im Personalwesen",
+        "share_total": 0.59,
+        "Fam_Name": "Büro- und administrative Hilfsberufe"
+    },
+    {
+        "id": "11-3121.00",
+        "name": "Personalmanager/in",
+        "share_total": 0.55,
+        "Fam_Name": "Management-Berufe"
+    },
+    {
+        "id": "45-3021.00",
+        "name": "Jäger/in",
+        "share_total": 0.71,
+        "Fam_Name": "Berufe in der Landwirtschaft, Fischerei und Forstwirtschaft"
+    },
+    {
+        "id": "19-2043.00",
+        "name": "Hydrologe/-in",
+        "share_total": 0.58,
+        "Fam_Name": "Lebens-, körper- und sozialwissenschaftliche Berufe"
+    },
+    {
+        "id": "17-3026.00",
+        "name": "Industriemechaniker/in",
+        "share_total": 0.6,
+        "Fam_Name": "Architektur- und Ingenieurberufe"
+    },
+    {
+        "id": "17-2112.00",
+        "name": "Wirtschaftsingenieur/in",
+        "share_total": 0.59,
+        "Fam_Name": "Architektur- und Ingenieurberufe"
+    },
+    {
+        "id": "11-3051.00",
+        "name": "Manager/in in der Produktion",
+        "share_total": 0.58,
+        "Fam_Name": "Management-Berufe"
+    },
+    {
+        "id": "15-1199.09",
+        "name": "IT-Projektmanager/in",
+        "share_total": 0.55,
+        "Fam_Name": "Computer- und mathematische Berufe"
+    },
+    {
+        "id": "47-2132.00",
+        "name": "Isolierer/in",
+        "share_total": 0.69,
+        "Fam_Name": "Bau- und Gewinnungsberufe"
+    },
+    {
+        "id": "13-1031.02",
+        "name": "Versicherungssachverständige/r, Versicherungsgutachter/in",
+        "share_total": 0.61,
+        "Fam_Name": "Berufe im Bereich Wirtschaft und Finanzen"
+    },
+    {
+        "id": "43-9041.02",
+        "name": "Versicherungssachbearbeiter/in",
+        "share_total": 0.66,
+        "Fam_Name": "Büro- und administrative Hilfsberufe"
+    },
+    {
+        "id": "41-3021.00",
+        "name": "Versicherungsvertreter/in",
+        "share_total": 0.6,
+        "Fam_Name": "Verkauf und verwandte Berufe"
+    },
+    {
+        "id": "27-1025.00",
+        "name": "Innenarchitekt/in",
+        "share_total": 0.56,
+        "Fam_Name": "Berufe in den Bereichen Kunst, Design, Unterhaltung, Sport und Medien"
+    },
+    {
+        "id": "29-1063.00",
+        "name": "Internist/in (Ärzte)",
+        "share_total": 0.54,
+        "Fam_Name": "Praktiker im Gesundheitswesen und technische Berufe"
+    },
+    {
+        "id": "27-3091.00",
+        "name": "Dolmetscher/in, Übersetzer/in",
+        "share_total": 0.61,
+        "Fam_Name": "Berufe in den Bereichen Kunst, Design, Unterhaltung, Sport und Medien"
+    },
+    {
+        "id": "11-9199.03",
+        "name": "Fondsmanager/in, Portfolio-Manager/in Fonds",
+        "share_total": 0.56,
+        "Fam_Name": "Management-Berufe"
+    },
+    {
+        "id": "37-2011.00",
+        "name": "Hausmeister/in, Reinigungskraft",
+        "share_total": 0.76,
+        "Fam_Name": "Gebäude- und Grundstücksreinigungs- und Instandhaltungsberufe"
+    },
+    {
+        "id": "51-9071.01",
+        "name": "Juwelier/in",
+        "share_total": 0.59,
+        "Fam_Name": "Produktionsberufe"
+    },
+    {
+        "id": "23-1023.00",
+        "name": "Richter/in, Staatsanwalt/-anwältin",
+        "share_total": 0.52,
+        "Fam_Name": "Juristische Berufe"
+    },
+    {
+        "id": "17-1012.00",
+        "name": "Landschaftsarchitekt/in",
+        "share_total": 0.56,
+        "Fam_Name": "Architektur- und Ingenieurberufe"
+    },
+    {
+        "id": "37-3011.00",
+        "name": "Landschaftsgärtner/in",
+        "share_total": 0.74,
+        "Fam_Name": "Gebäude- und Grundstücksreinigungs- und Instandhaltungsberufe"
+    },
+    {
+        "id": "51-6011.00",
+        "name": "Wäscherei-Mitarbeiter/in",
+        "share_total": 0.74,
+        "Fam_Name": "Produktionsberufe"
+    },
+    {
+        "id": "23-1011.00",
+        "name": "Rechtsanwalt/-anwältin",
+        "share_total": 0.54,
+        "Fam_Name": "Juristische Berufe"
+    },
+    {
+        "id": "25-4021.00",
+        "name": "Bibliothekar/in",
+        "share_total": 0.58,
+        "Fam_Name": "Bildung, Ausbildung und bibliothekarische Berufe"
+    },
+    {
+        "id": "43-4121.00",
+        "name": "Bibliotheksassistent/in",
+        "share_total": 0.69,
+        "Fam_Name": "Büro- und administrative Hilfsberufe"
+    },
+    {
+        "id": "53-3033.00",
+        "name": "Fahrer/in von Kleinlastern oder Lieferdiensten",
+        "share_total": 0.71,
+        "Fam_Name": "Berufe im Bereich Transport und Materialtransport"
+    },
+    {
+        "id": "53-4011.00",
+        "name": "Lokführer/in",
+        "share_total": 0.62,
+        "Fam_Name": "Berufe im Bereich Transport und Materialtransport"
+    },
+    {
+        "id": "11-3071.03",
+        "name": "Logistik-Manager/in",
+        "share_total": 0.56,
+        "Fam_Name": "Management-Berufe"
+    },
+    {
+        "id": "51-4041.00",
+        "name": "Maschinist/in",
+        "share_total": 0.65,
+        "Fam_Name": "Produktionsberufe"
+    },
+    {
+        "id": "37-2012.00",
+        "name": "Reinigungskraft im Haushalt",
+        "share_total": 0.75,
+        "Fam_Name": "Gebäude- und Grundstücksreinigungs- und Instandhaltungsberufe"
+    },
+    {
+        "id": "49-9043.00",
+        "name": "Wartungstechniker/in (Maschinen)",
+        "share_total": 0.67,
+        "Fam_Name": "Berufe im Bereich Installation, Wartung und Reparatur"
+    },
+    {
+        "id": "39-5091.00",
+        "name": "Maskenbildner/in (Theater und Performance)",
+        "share_total": 0.63,
+        "Fam_Name": "Persönliche Pflege- und Dienstleistungsberufe"
+    },
+    {
+        "id": "17-2199.04",
+        "name": "Fertigungsingenieur/in",
+        "share_total": 0.55,
+        "Fam_Name": "Architektur- und Ingenieurberufe"
+    },
+    {
+        "id": "17-3029.09",
+        "name": "Produktionstechniker/in",
+        "share_total": 0.62,
+        "Fam_Name": "Architektur- und Ingenieurberufe"
+    },
+    {
+        "id": "17-2121.02",
+        "name": "Schiffsarchitekt/in",
+        "share_total": 0.56,
+        "Fam_Name": "Architektur- und Ingenieurberufe"
+    },
+    {
+        "id": "17-2121.01",
+        "name": "Schiffsingenieur/in",
+        "share_total": 0.57,
+        "Fam_Name": "Architektur- und Ingenieurberufe"
+    },
+    {
+        "id": "13-1161.00",
+        "name": "Marktforschungsanalyst/in",
+        "share_total": 0.56,
+        "Fam_Name": "Berufe im Bereich Wirtschaft und Finanzen"
+    },
+    {
+        "id": "21-1013.00",
+        "name": "Ehe- und Familientherapeut/in",
+        "share_total": 0.54,
+        "Fam_Name": "Gemeinschaftliche und soziale Dienstleistungsberufe"
+    },
+    {
+        "id": "31-9011.00",
+        "name": "Massagetherapeut/in, Masseur/in",
+        "share_total": 0.67,
+        "Fam_Name": "Hilfsberufe im Gesundheitswesen"
+    },
+    {
+        "id": "17-2131.00",
+        "name": "Werkstoffingenieur/in",
+        "share_total": 0.56,
+        "Fam_Name": "Architektur- und Ingenieurberufe"
+    },
+    {
+        "id": "53-5021.02",
+        "name": "Matrose / Matrosin (Schifffahrt)",
+        "share_total": 0.63,
+        "Fam_Name": "Berufe im Bereich Transport und Materialtransport"
+    },
+    {
+        "id": "15-2021.00",
+        "name": "Mathematiker/in",
+        "share_total": 0.5,
+        "Fam_Name": "Computer- und mathematische Berufe"
+    },
+    {
+        "id": "17-3013.00",
+        "name": "Technische/r Zeichner/in",
+        "share_total": 0.6,
+        "Fam_Name": "Architektur- und Ingenieurberufe"
+    },
+    {
+        "id": "17-3027.00",
+        "name": "Maschinenbau-Techniker/in",
+        "share_total": 0.6,
+        "Fam_Name": "Architektur- und Ingenieurberufe"
+    },
+    {
+        "id": "17-2141.00",
+        "name": "Maschinenbau-Ingenieur/in",
+        "share_total": 0.55,
+        "Fam_Name": "Architektur- und Ingenieurberufe"
+    },
+    {
+        "id": "17-2199.05",
+        "name": "Mechatronik-Ingenieur/in",
+        "share_total": 0.57,
+        "Fam_Name": "Architektur- und Ingenieurberufe"
+    },
+    {
+        "id": "51-9082.00",
+        "name": "Techniker/in für medizinische Geräte",
+        "share_total": 0.62,
+        "Fam_Name": "Produktionsberufe"
+    },
+    {
+        "id": "31-9092.00",
+        "name": "Medizinische/r Fachangestellte/r",
+        "share_total": 0.62,
+        "Fam_Name": "Hilfsberufe im Gesundheitswesen"
+    },
+    {
+        "id": "29-2012.00",
+        "name": "Labortechniker/in",
+        "share_total": 0.63,
+        "Fam_Name": "Praktiker im Gesundheitswesen und technische Berufe"
+    },
+    {
+        "id": "13-1121.00",
+        "name": "Veranstaltungsplaner/in, Event-Planer/in",
+        "share_total": 0.6,
+        "Fam_Name": "Berufe im Bereich Wirtschaft und Finanzen"
+    },
+    {
+        "id": "27-1026.00",
+        "name": "Schaufensterdekorateur/in / Visual Merchandiser/in",
+        "share_total": 0.66,
+        "Fam_Name": "Berufe in den Bereichen Kunst, Design, Unterhaltung, Sport und Medien"
+    },
+    {
+        "id": "43-5041.00",
+        "name": "Zählerableser/in (Energie-Versorgung)",
+        "share_total": 0.71,
+        "Fam_Name": "Büro- und administrative Hilfsberufe"
+    },
+    {
+        "id": "19-1022.00",
+        "name": "Mikrobiologe/-in",
+        "share_total": 0.52,
+        "Fam_Name": "Lebens-, körper- und sozialwissenschaftliche Berufe"
+    },
+    {
+        "id": "25-2022.00",
+        "name": "Lehrer/in (Sekundarstufe I und II)",
+        "share_total": 0.56,
+        "Fam_Name": "Bildung, Ausbildung und bibliothekarische Berufe"
+    },
+    {
+        "id": "29-9099.01",
+        "name": "Hebamme, Geburtshelfer/in, Entbindungspfleger/in",
+        "share_total": 0.59,
+        "Fam_Name": "Praktiker im Gesundheitswesen und technische Berufe"
+    },
+    {
+        "id": "51-4061.00",
+        "name": "Modellbauer/in (Metall und Kunststoff)",
+        "share_total": 0.66,
+        "Fam_Name": "Produktionsberufe"
+    },
+    {
+        "id": "51-7031.00",
+        "name": "Modellbauer/in, Holz",
+        "share_total": 0.67,
+        "Fam_Name": "Produktionsberufe"
+    },
+    {
+        "id": "41-9012.00",
+        "name": "Model (v.a. Modebranche)",
+        "share_total": 0.72,
+        "Fam_Name": "Verkauf und verwandte Berufe"
+    },
+    {
+        "id": "39-4031.00",
+        "name": "Bestatter/in / Bestattungsunternehmer/in",
+        "share_total": 0.6,
+        "Fam_Name": "Persönliche Pflege- und Dienstleistungsberufe"
+    },
+    {
+        "id": "39-3021.00",
+        "name": "Filmvorführer/in",
+        "share_total": 0.68,
+        "Fam_Name": "Persönliche Pflege- und Dienstleistungsberufe"
+    },
+    {
+        "id": "49-3052.00",
+        "name": "Motorradmechaniker/in",
+        "share_total": 0.64,
+        "Fam_Name": "Berufe im Bereich Installation, Wartung und Reparatur"
+    },
+    {
+        "id": "27-1014.00",
+        "name": "Multimedia-Künstler/in",
+        "share_total": 0.59,
+        "Fam_Name": "Berufe in den Bereichen Kunst, Design, Unterhaltung, Sport und Medien"
+    },
+    {
+        "id": "33-2011.01",
+        "name": "Feuerwehrmann/-frau",
+        "share_total": 0.62,
+        "Fam_Name": "Berufe im Bereich Schutzdienstleistungen"
+    },
+    {
+        "id": "25-4013.00",
+        "name": "Museumstechniker/in und Konservator/in",
+        "share_total": 0.62,
+        "Fam_Name": "Bildung, Ausbildung und bibliothekarische Berufe"
+    },
+    {
+        "id": "27-2041.04",
+        "name": "Komponist/in, Musikarrangeur/in",
+        "share_total": 0.6,
+        "Fam_Name": "Berufe in den Bereichen Kunst, Design, Unterhaltung, Sport und Medien"
+    },
+    {
+        "id": "27-2041.01",
+        "name": "Musikdirektor/in",
+        "share_total": 0.55,
+        "Fam_Name": "Berufe in den Bereichen Kunst, Design, Unterhaltung, Sport und Medien"
+    },
+    {
+        "id": "29-1125.02",
+        "name": "Musiktherapeut/in",
+        "share_total": 0.6,
+        "Fam_Name": "Praktiker im Gesundheitswesen und technische Berufe"
+    },
+    {
+        "id": "27-2042.02",
+        "name": "Musiker/in (instrumental)",
+        "share_total": 0.63,
+        "Fam_Name": "Berufe in den Bereichen Kunst, Design, Unterhaltung, Sport und Medien"
+    },
+    {
+        "id": "29-1069.04",
+        "name": "Neurolog/in",
+        "share_total": 0.48,
+        "Fam_Name": "Praktiker im Gesundheitswesen und technische Berufe"
+    },
+    {
+        "id": "19-3039.01",
+        "name": "Neuropsychologe/-in",
+        "share_total": 0.49,
+        "Fam_Name": "Lebens-, körper- und sozialwissenschaftliche Berufe"
+    },
+    {
+        "id": "29-1171.00",
+        "name": "Krankenpfleger/in",
+        "share_total": 0.57,
+        "Fam_Name": "Praktiker im Gesundheitswesen und technische Berufe"
+    },
+    {
+        "id": "31-1014.00",
+        "name": "Krankenpflege-Helfer/in",
+        "share_total": 0.69,
+        "Fam_Name": "Hilfsberufe im Gesundheitswesen"
+    },
+    {
+        "id": "29-1064.00",
+        "name": "Gynäkologe/-in",
+        "share_total": 0.56,
+        "Fam_Name": "Praktiker im Gesundheitswesen und technische Berufe"
+    },
+    {
+        "id": "43-9061.00",
+        "name": "Büroangestellte/r (allgemein)",
+        "share_total": 0.66,
+        "Fam_Name": "Büro- und administrative Hilfsberufe"
+    },
+    {
+        "id": "13-1199.06",
+        "name": "Online-Händler/in",
+        "share_total": 0.6,
+        "Fam_Name": "Berufe im Bereich Wirtschaft und Finanzen"
+    },
+    {
+        "id": "29-2081.00",
+        "name": "Optiker/in",
+        "share_total": 0.63,
+        "Fam_Name": "Praktiker im Gesundheitswesen und technische Berufe"
+    },
+    {
+        "id": "29-1022.00",
+        "name": "Mund-, Kiefer- und Gesichtschirurge/-in",
+        "share_total": 0.55,
+        "Fam_Name": "Praktiker im Gesundheitswesen und technische Berufe"
+    },
+    {
+        "id": "29-1023.00",
+        "name": "Kieferorthopäde/-in",
+        "share_total": 0.58,
+        "Fam_Name": "Praktiker im Gesundheitswesen und technische Berufe"
+    },
+    {
+        "id": "51-9111.00",
+        "name": "Verpacker/in (maschinell, in der Produktion)",
+        "share_total": 0.69,
+        "Fam_Name": "Produktionsberufe"
+    },
+    {
+        "id": "53-7064.00",
+        "name": "Verpacker/in (händisch, in der Produktion",
+        "share_total": 0.76,
+        "Fam_Name": "Berufe im Bereich Transport und Materialtransport"
+    },
+    {
+        "id": "47-2141.00",
+        "name": "Maler/in",
+        "share_total": 0.71,
+        "Fam_Name": "Bau- und Gewinnungsberufe"
+    },
+    {
+        "id": "47-2142.00",
+        "name": "Tapezierer/in",
+        "share_total": 0.73,
+        "Fam_Name": "Bau- und Gewinnungsberufe"
+    },
+    {
+        "id": "29-1069.07",
+        "name": "Pathologe/-in",
+        "share_total": 0.49,
+        "Fam_Name": "Praktiker im Gesundheitswesen und technische Berufe"
+    },
+    {
+        "id": "29-1065.00",
+        "name": "Kinderarzt/-ärztin",
+        "share_total": 0.55,
+        "Fam_Name": "Praktiker im Gesundheitswesen und technische Berufe"
+    },
+    {
+        "id": "13-2052.00",
+        "name": "Finanzberater/in",
+        "share_total": 0.59,
+        "Fam_Name": "Berufe im Bereich Wirtschaft und Finanzen"
+    },
+    {
+        "id": "29-1051.00",
+        "name": "Apotheker/in",
+        "share_total": 0.58,
+        "Fam_Name": "Praktiker im Gesundheitswesen und technische Berufe"
+    },
+    {
+        "id": "25-1126.00",
+        "name": "Hochschullehrer/in für Philosophie und Religion",
+        "share_total": 0.55,
+        "Fam_Name": "Bildung, Ausbildung und bibliothekarische Berufe"
+    },
+    {
+        "id": "27-4021.00",
+        "name": "Fotograf/in",
+        "share_total": 0.63,
+        "Fam_Name": "Berufe in den Bereichen Kunst, Design, Unterhaltung, Sport und Medien"
+    },
+    {
+        "id": "29-1123.00",
+        "name": "Physiotherapeut/in",
+        "share_total": 0.6,
+        "Fam_Name": "Praktiker im Gesundheitswesen und technische Berufe"
+    },
+    {
+        "id": "29-1071.00",
+        "name": "Medizinische/r Fachangestellte/r",
+        "share_total": 0.57,
+        "Fam_Name": "Praktiker im Gesundheitswesen und technische Berufe"
+    },
+    {
+        "id": "19-2012.00",
+        "name": "Physiker/in",
+        "share_total": 0.43,
+        "Fam_Name": "Lebens-, körper- und sozialwissenschaftliche Berufe"
+    },
+    {
+        "id": "25-1054.00",
+        "name": "Hochschullehrer/in für Physik",
+        "share_total": 0.55,
+        "Fam_Name": "Bildung, Ausbildung und bibliothekarische Berufe"
+    },
+    {
+        "id": "53-5021.03",
+        "name": "Lotse/-in (Schifffahrt)",
+        "share_total": 0.59,
+        "Fam_Name": "Berufe im Bereich Transport und Materialtransport"
+    },
+    {
+        "id": "47-2151.00",
+        "name": "Rohrverleger/in, Rohrleitungsmonteur/in",
+        "share_total": 0.68,
+        "Fam_Name": "Bau- und Gewinnungsberufe"
+    },
+    {
+        "id": "47-2161.00",
+        "name": "Stuckateur/in, Gipser/in",
+        "share_total": 0.7,
+        "Fam_Name": "Bau- und Gewinnungsberufe"
+    },
+    {
+        "id": "47-2152.02",
+        "name": "Klempner/in",
+        "share_total": 0.64,
+        "Fam_Name": "Bau- und Gewinnungsberufe"
+    },
+    {
+        "id": "27-3043.05",
+        "name": "Dichter/in, Lyriker/in, Schriftsteller/in",
+        "share_total": 0.57,
+        "Fam_Name": "Berufe in den Bereichen Kunst, Design, Unterhaltung, Sport und Medien"
+    },
+    {
+        "id": "33-3051.01",
+        "name": "Polizist/in (Streifendienst)",
+        "share_total": 0.62,
+        "Fam_Name": "Berufe im Bereich Schutzdienstleistungen"
+    },
+    {
+        "id": "25-1065.00",
+        "name": "Hochschullehrer/in für Politikwissenschaft",
+        "share_total": 0.54,
+        "Fam_Name": "Bildung, Ausbildung und bibliothekarische Berufe"
+    },
+    {
+        "id": "19-3094.00",
+        "name": "Politikwissenschaftler/in",
+        "share_total": 0.55,
+        "Fam_Name": "Lebens-, körper- und sozialwissenschaftliche Berufe"
+    },
+    {
+        "id": "43-5052.00",
+        "name": "Postzusteller/in",
+        "share_total": 0.72,
+        "Fam_Name": "Büro- und administrative Hilfsberufe"
+    },
+    {
+        "id": "51-6021.00",
+        "name": "Bügler/in, Bügelkraft",
+        "share_total": 0.77,
+        "Fam_Name": "Produktionsberufe"
+    },
+    {
+        "id": "51-5112.00",
+        "name": "Drucker/in (Druckerei)",
+        "share_total": 0.65,
+        "Fam_Name": "Produktionsberufe"
+    },
+    {
+        "id": "43-9081.00",
+        "name": "Korrekturleser/in (ohne Lekorat)",
+        "share_total": 0.7,
+        "Fam_Name": "Büro- und administrative Hilfsberufe"
+    },
+    {
+        "id": "11-9141.00",
+        "name": "Immobilienverwalter/in",
+        "share_total": 0.58,
+        "Fam_Name": "Management-Berufe"
+    },
+    {
+        "id": "29-1066.00",
+        "name": "Psychiater/in",
+        "share_total": 0.53,
+        "Fam_Name": "Praktiker im Gesundheitswesen und technische Berufe"
+    },
+    {
+        "id": "25-1066.00",
+        "name": "Hochschullehrer/in für Psychologie",
+        "share_total": 0.54,
+        "Fam_Name": "Bildung, Ausbildung und bibliothekarische Berufe"
+    },
+    {
+        "id": "27-3031.00",
+        "name": "Spezialist/in für Public Relations / Öffentlichkeitsarbeit",
+        "share_total": 0.55,
+        "Fam_Name": "Berufe in den Bereichen Kunst, Design, Unterhaltung, Sport und Medien"
+    },
+    {
+        "id": "53-4031.00",
+        "name": "Zugbegleiter/in",
+        "share_total": 0.62,
+        "Fam_Name": "Berufe im Bereich Transport und Materialtransport"
+    },
+    {
+        "id": "41-9022.00",
+        "name": "Immobilienmakler/in",
+        "share_total": 0.6,
+        "Fam_Name": "Verkauf und verwandte Berufe"
+    },
+    {
+        "id": "49-9021.02",
+        "name": "Kältetechniker/in",
+        "share_total": 0.62,
+        "Fam_Name": "Berufe im Bereich Installation, Wartung und Reparatur"
+    },
+    {
+        "id": "27-3022.00",
+        "name": "Reporter/in, Korrespondent/in (Journalismus)",
+        "share_total": 0.58,
+        "Fam_Name": "Berufe in den Bereichen Kunst, Design, Unterhaltung, Sport und Medien"
+    },
+    {
+        "id": "41-2031.00",
+        "name": "Einzelhandelskaufmann/-frau",
+        "share_total": 0.65,
+        "Fam_Name": "Verkauf und verwandte Berufe"
+    },
+    {
+        "id": "17-2199.08",
+        "name": "Robotik-Ingenieur/in",
+        "share_total": 0.55,
+        "Fam_Name": "Architektur- und Ingenieurberufe"
+    },
+    {
+        "id": "17-3024.01",
+        "name": "Robotik-Techniker/in",
+        "share_total": 0.6,
+        "Fam_Name": "Architektur- und Ingenieurberufe"
+    },
+    {
+        "id": "47-2181.00",
+        "name": "Dachdecker/in",
+        "share_total": 0.7,
+        "Fam_Name": "Bau- und Gewinnungsberufe"
+    },
+    {
+        "id": "11-2022.00",
+        "name": "Sales Manager/in (Vertrieb)",
+        "share_total": 0.55,
+        "Fam_Name": "Management-Berufe"
+    },
+    {
+        "id": "41-4012.00",
+        "name": "Handelsvertreter/in",
+        "share_total": 0.6,
+        "Fam_Name": "Verkauf und verwandte Berufe"
+    },
+    {
+        "id": "43-6014.00",
+        "name": "Sekretär/in, Verwaltungsassistent/in",
+        "share_total": 0.62,
+        "Fam_Name": "Büro- und administrative Hilfsberufe"
+    },
+    {
+        "id": "33-9032.00",
+        "name": "Mitarbeiter/in im Sicherheitsdienst",
+        "share_total": 0.69,
+        "Fam_Name": "Berufe im Bereich Schutzdienstleistungen"
+    },
+    {
+        "id": "13-1199.02",
+        "name": "Spezialist/in für Sicherheitsmanagement",
+        "share_total": 0.56,
+        "Fam_Name": "Berufe im Bereich Wirtschaft und Finanzen"
+    },
+    {
+        "id": "27-1027.00",
+        "name": "Bühnenbildner/in",
+        "share_total": 0.6,
+        "Fam_Name": "Berufe in den Bereichen Kunst, Design, Unterhaltung, Sport und Medien"
+    },
+    {
+        "id": "51-6031.00",
+        "name": "Näher/in an der Nähmaschine",
+        "share_total": 0.73,
+        "Fam_Name": "Produktionsberufe"
+    },
+    {
+        "id": "53-5031.00",
+        "name": "Schiffsingenieur/in",
+        "share_total": 0.62,
+        "Fam_Name": "Berufe im Bereich Transport und Materialtransport"
+    },
+    {
+        "id": "53-5021.01",
+        "name": "Kapitän/in (Schifffahrt)",
+        "share_total": 0.59,
+        "Fam_Name": "Berufe im Bereich Transport und Materialtransport"
+    },
+    {
+        "id": "51-6041.00",
+        "name": "Schuhmacher/in (Reparatur und Herstellung)",
+        "share_total": 0.73,
+        "Fam_Name": "Produktionsberufe"
+    },
+    {
+        "id": "27-2042.01",
+        "name": "Sänger/in",
+        "share_total": 0.64,
+        "Fam_Name": "Berufe in den Bereichen Kunst, Design, Unterhaltung, Sport und Medien"
+    },
+    {
+        "id": "51-3023.00",
+        "name": "Schlachter/in, Fleischverpacker/in",
+        "share_total": 0.78,
+        "Fam_Name": "Produktionsberufe"
+    },
+    {
+        "id": "19-3041.00",
+        "name": "Soziolog/in",
+        "share_total": 0.53,
+        "Fam_Name": "Lebens-, körper- und sozialwissenschaftliche Berufe"
+    },
+    {
+        "id": "25-1067.00",
+        "name": "Hochschullehrer/in für Soziologie",
+        "share_total": 0.54,
+        "Fam_Name": "Bildung, Ausbildung und bibliothekarische Berufe"
+    },
+    {
+        "id": "27-4014.00",
+        "name": "Tontechniker/in",
+        "share_total": 0.6,
+        "Fam_Name": "Berufe in den Bereichen Kunst, Design, Unterhaltung, Sport und Medien"
+    },
+    {
+        "id": "25-2052.00",
+        "name": "Sonderpädagoge/-in (Grundschule)",
+        "share_total": 0.57,
+        "Fam_Name": "Bildung, Ausbildung und bibliothekarische Berufe"
+    },
+    {
+        "id": "25-2053.00",
+        "name": "Sonderpädagoge/-in (Middle School, entspricht etwa Sekundarstufe II)",
+        "share_total": 0.56,
+        "Fam_Name": "Bildung, Ausbildung und bibliothekarische Berufe"
+    },
+    {
+        "id": "15-2041.00",
+        "name": "Statistiker/in",
+        "share_total": 0.55,
+        "Fam_Name": "Computer- und mathematische Berufe"
+    },
+    {
+        "id": "43-5081.03",
+        "name": "Lagerist/in",
+        "share_total": 0.71,
+        "Fam_Name": "Büro- und administrative Hilfsberufe"
+    },
+    {
+        "id": "47-2022.00",
+        "name": "Steinmetz/in",
+        "share_total": 0.68,
+        "Fam_Name": "Bau- und Gewinnungsberufe"
+    },
+    {
+        "id": "47-2221.00",
+        "name": "Arbeiter/in in der Eisen- und Stahlindustrie",
+        "share_total": 0.65,
+        "Fam_Name": "Bau- und Gewinnungsberufe"
+    },
+    {
+        "id": "29-1067.00",
+        "name": "Chirurg/in (Ärzte)",
+        "share_total": 0.5,
+        "Fam_Name": "Praktiker im Gesundheitswesen und technische Berufe"
+    },
+    {
+        "id": "17-3031.01",
+        "name": "Vermessungstechniker/in",
+        "share_total": 0.66,
+        "Fam_Name": "Architektur- und Ingenieurberufe"
+    },
+    {
+        "id": "43-2011.00",
+        "name": "Telefonist/in, Call Center Agent (Kundenberatung)",
+        "share_total": 0.7,
+        "Fam_Name": "Büro- und administrative Hilfsberufe"
+    },
+    {
+        "id": "51-6052.00",
+        "name": "Schneider/in (Maßschneider)",
+        "share_total": 0.67,
+        "Fam_Name": "Produktionsberufe"
+    },
+    {
+        "id": "13-2082.00",
+        "name": "Steuerberater/in",
+        "share_total": 0.63,
+        "Fam_Name": "Berufe im Bereich Wirtschaft und Finanzen"
+    },
+    {
+        "id": "53-3041.00",
+        "name": "Taxifahrer/in, Chauffeur/in",
+        "share_total": 0.67,
+        "Fam_Name": "Berufe im Bereich Transport und Materialtransport"
+    },
+    {
+        "id": "27-3042.00",
+        "name": "Technische/r Redakteur/in",
+        "share_total": 0.6,
+        "Fam_Name": "Berufe in den Bereichen Kunst, Design, Unterhaltung, Sport und Medien"
+    },
+    {
+        "id": "15-1143.01",
+        "name": "Spezialist/in für Telekommunikationstechnik",
+        "share_total": 0.6,
+        "Fam_Name": "Computer- und mathematische Berufe"
+    },
+    {
+        "id": "41-9041.00",
+        "name": "Telefonhändler/in",
+        "share_total": 0.64,
+        "Fam_Name": "Verkauf und verwandte Berufe"
+    },
+    {
+        "id": "47-2044.00",
+        "name": "Fliesenleger/in",
+        "share_total": 0.69,
+        "Fam_Name": "Bau- und Gewinnungsberufe"
+    },
+    {
+        "id": "51-4111.00",
+        "name": "Werkzeugmacher/in",
+        "share_total": 0.64,
+        "Fam_Name": "Produktionsberufe"
+    },
+    {
+        "id": "39-7011.00",
+        "name": "Reiseleiter/in, Reisebegleiter/in",
+        "share_total": 0.68,
+        "Fam_Name": "Persönliche Pflege- und Dienstleistungsberufe"
+    },
+    {
+        "id": "33-3052.00",
+        "name": "Polizist/in (Bundespolizei)",
+        "share_total": 0.63,
+        "Fam_Name": "Berufe im Bereich Schutzdienstleistungen"
+    },
+    {
+        "id": "19-3099.01",
+        "name": "Verkehrsplaner/in",
+        "share_total": 0.55,
+        "Fam_Name": "Lebens-, körper- und sozialwissenschaftliche Berufe"
+    },
+    {
+        "id": "27-2023.00",
+        "name": "Schiedsrichter/in, Kampfrichter/in, Sportfunktionär/in",
+        "share_total": 0.64,
+        "Fam_Name": "Berufe in den Bereichen Kunst, Design, Unterhaltung, Sport und Medien"
+    },
+    {
+        "id": "51-6093.00",
+        "name": "Polsterer/-in",
+        "share_total": 0.66,
+        "Fam_Name": "Produktionsberufe"
+    },
+    {
+        "id": "19-3051.00",
+        "name": "Stadt- und Regionalplaner/in",
+        "share_total": 0.55,
+        "Fam_Name": "Lebens-, körper- und sozialwissenschaftliche Berufe"
+    },
+    {
+        "id": "29-1131.00",
+        "name": "Tierarzt/-ärztin",
+        "share_total": 0.59,
+        "Fam_Name": "Praktiker im Gesundheitswesen und technische Berufe"
+    },
+    {
+        "id": "31-9096.00",
+        "name": "Tiermedizinische/r Fachangestellte/r",
+        "share_total": 0.68,
+        "Fam_Name": "Hilfsberufe im Gesundheitswesen"
+    },
+    {
+        "id": "15-1199.11",
+        "name": "Game Designer/in",
+        "share_total": 0.57,
+        "Fam_Name": "Computer- und mathematische Berufe"
+    },
+    {
+        "id": "35-3031.00",
+        "name": "Kellner/in",
+        "share_total": 0.71,
+        "Fam_Name": "Berufe in der Lebensmittelzubereitung und -verpflegung"
+    },
+    {
+        "id": "51-4121.06",
+        "name": "Schweißer/in",
+        "share_total": 0.68,
+        "Fam_Name": "Produktionsberufe"
+    },
+    {
+        "id": "13-1022.00",
+        "name": "Groß- und Einzelhandelskaufmann/-frau",
+        "share_total": 0.59,
+        "Fam_Name": "Berufe im Bereich Wirtschaft und Finanzen"
+    },
+    {
+        "id": "19-1023.00",
+        "name": "Zoologe/-in, Wildtierbiologe/-in",
+        "share_total": 0.59,
+        "Fam_Name": "Lebens-, körper- und sozialwissenschaftliche Berufe"
+    }
+]
