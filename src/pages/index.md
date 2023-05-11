@@ -27,8 +27,13 @@ import TabbedView from '../components/data-tabs/TabbedView.jsx'
 import { Link, LinkList } from '../components/link/link.jsx'
 import { Quiz, Image as QuizImage, Question, Answer, Result, Score as QuizScore } from '../components/quiz/quiz.jsx'
 
-# KI Resilienz
-Testitest Irure quis occaecat labore est magna non aute cupidatat. Veniam est laborum sint labore deserunt ut proident officia minim ullamco cillum sit. Officia dolor incididunt officia elit anim sit et do deserunt irure tempor amet cillum pariatur.
+# So stark ist Ihr Job durch KI bedroht
+#### Künstliche Intelligenz wird die Arbeitswelt zum Teil revolutionieren. In welchen Jobs könnten KI und Roboter menschliche Arbeit wie stark ersetzen? Ein interaktiver Blick auf mehr als 300 Berufe - und ein Besuch bei einer kleinen Fleischerei, die KI als große Chance sieht.
+
+<i>Von Jörn Seidel, Alexa Schulz und Jannes Höke (ok?)</i>
+
+In der Landfleischerei von Katharina Koch ...
+
 
 <JobChecker>
 
