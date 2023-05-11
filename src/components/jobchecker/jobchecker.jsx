@@ -59,7 +59,7 @@ const IconArrowRight = () => (
   </svg>
 );
 
-const JobChecker = () => {
+const JobChecker = ({ children }) => {
   const [job, setJob] = useState(null);
   const [previousJob, setPreviousJob] = useState(null);
   const [nextJob, setNextJob] = useState(null);
@@ -120,7 +120,7 @@ const JobChecker = () => {
           </div>
         </div>
       )}
-      <Infobox />
+      <Infobox>{children}</Infobox>
     </div>
   );
 };
