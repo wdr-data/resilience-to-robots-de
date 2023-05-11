@@ -28,7 +28,7 @@ import { Link, LinkList } from '../components/link/link.jsx'
 import { Quiz, Image as QuizImage, Question, Answer, Result, Score as QuizScore } from '../components/quiz/quiz.jsx'
 
 # KI Resilienz
-Irure quis occaecat labore est magna non aute cupidatat. Veniam est laborum sint labore deserunt ut proident officia minim ullamco cillum sit. Officia dolor incididunt officia elit anim sit et do deserunt irure tempor amet cillum pariatur.
+Testitest Irure quis occaecat labore est magna non aute cupidatat. Veniam est laborum sint labore deserunt ut proident officia minim ullamco cillum sit. Officia dolor incididunt officia elit anim sit et do deserunt irure tempor amet cillum pariatur.
 <JobChecker />
 
 <Sharing twitter facebook mail whatsapp telegram reddit xing linkedin />
