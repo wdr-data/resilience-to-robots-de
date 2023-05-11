@@ -73,7 +73,7 @@
     },
     {
         "id": "25-1041.00",
-        "name": "Hochschullehrer/in für Agrarwissenschaften",
+        "name": "Hochschullehrer/in für Volkswirtschaft, Agrarwissenschaft",
         "share_total": 0.57,
         "Fam_Name": "Bildung, Ausbildung und bibliothekarische Berufe"
     },
@@ -162,12 +162,6 @@
         "Fam_Name": "Architektur- und Ingenieurberufe"
     },
     {
-        "id": "25-1031.00",
-        "name": "Hochschullehrer/in für Architektur, Chemie, Fremdsprachen, Literatur",
-        "share_total": 0.54,
-        "Fam_Name": "Bildung, Ausbildung und bibliothekarische Berufe"
-    },
-    {
         "id": "25-4011.00",
         "name": "Archivar/in",
         "share_total": 0.59,
@@ -213,12 +207,6 @@
         "id": "49-3023.01",
         "name": "Kfz-Meistermechaniker/in (Automechaniker)",
         "share_total": 0.63,
-        "Fam_Name": "Berufe im Bereich Installation, Wartung und Reparatur"
-    },
-    {
-        "id": "49-2091.00",
-        "name": "Luftfahrttechniker/in",
-        "share_total": 0.61,
         "Fam_Name": "Berufe im Bereich Installation, Wartung und Reparatur"
     },
     {
@@ -331,7 +319,7 @@
     },
     {
         "id": "25-1011.00",
-        "name": "Hochschullehrer/in für Wirtschaft, Biologie, Geografie, Kunst",
+        "name": "Hochschullehrer/in für Wirtschaft, Physik, Biologie, Geografie, Philosophie, Kulturwissenschaften",
         "share_total": 0.55,
         "Fam_Name": "Bildung, Ausbildung und bibliothekarische Berufe"
     },
@@ -660,12 +648,6 @@
         "Fam_Name": "Berufe in den Bereichen Kunst, Design, Unterhaltung, Sport und Medien"
     },
     {
-        "id": "25-1063.00",
-        "name": "Hochschullehrer/in für Wirtschaft",
-        "share_total": 0.57,
-        "Fam_Name": "Bildung, Ausbildung und bibliothekarische Berufe"
-    },
-    {
         "id": "19-3011.00",
         "name": "Wirtschaftswissenschaftler/in",
         "share_total": 0.57,
@@ -958,12 +940,6 @@
         "name": "Historiker/in",
         "share_total": 0.58,
         "Fam_Name": "Lebens-, körper- und sozialwissenschaftliche Berufe"
-    },
-    {
-        "id": "25-1125.00",
-        "name": "Hochschullehrer/in für Geschichte",
-        "share_total": 0.54,
-        "Fam_Name": "Bildung, Ausbildung und bibliothekarische Berufe"
     },
     {
         "id": "29-1069.03",
@@ -1447,7 +1423,7 @@
     },
     {
         "id": "53-7064.00",
-        "name": "Verpacker/in (händisch, in der Produktion",
+        "name": "Verpacker/in (händisch, in der Produktion)",
         "share_total": 0.76,
         "Fam_Name": "Berufe im Bereich Transport und Materialtransport"
     },
@@ -1488,12 +1464,6 @@
         "Fam_Name": "Praktiker im Gesundheitswesen und technische Berufe"
     },
     {
-        "id": "25-1126.00",
-        "name": "Hochschullehrer/in für Philosophie und Religion",
-        "share_total": 0.55,
-        "Fam_Name": "Bildung, Ausbildung und bibliothekarische Berufe"
-    },
-    {
         "id": "27-4021.00",
         "name": "Fotograf/in",
         "share_total": 0.63,
@@ -1516,12 +1486,6 @@
         "name": "Physiker/in",
         "share_total": 0.43,
         "Fam_Name": "Lebens-, körper- und sozialwissenschaftliche Berufe"
-    },
-    {
-        "id": "25-1054.00",
-        "name": "Hochschullehrer/in für Physik",
-        "share_total": 0.55,
-        "Fam_Name": "Bildung, Ausbildung und bibliothekarische Berufe"
     },
     {
         "id": "53-5021.03",
@@ -1558,12 +1522,6 @@
         "name": "Polizist/in (Streifendienst)",
         "share_total": 0.62,
         "Fam_Name": "Berufe im Bereich Schutzdienstleistungen"
-    },
-    {
-        "id": "25-1065.00",
-        "name": "Hochschullehrer/in für Politikwissenschaft",
-        "share_total": 0.54,
-        "Fam_Name": "Bildung, Ausbildung und bibliothekarische Berufe"
     },
     {
         "id": "19-3094.00",
@@ -1606,12 +1564,6 @@
         "name": "Psychiater/in",
         "share_total": 0.53,
         "Fam_Name": "Praktiker im Gesundheitswesen und technische Berufe"
-    },
-    {
-        "id": "25-1066.00",
-        "name": "Hochschullehrer/in für Psychologie",
-        "share_total": 0.54,
-        "Fam_Name": "Bildung, Ausbildung und bibliothekarische Berufe"
     },
     {
         "id": "27-3031.00",
@@ -1744,12 +1696,6 @@
         "name": "Soziolog/in",
         "share_total": 0.53,
         "Fam_Name": "Lebens-, körper- und sozialwissenschaftliche Berufe"
-    },
-    {
-        "id": "25-1067.00",
-        "name": "Hochschullehrer/in für Soziologie",
-        "share_total": 0.54,
-        "Fam_Name": "Bildung, Ausbildung und bibliothekarische Berufe"
     },
     {
         "id": "27-4014.00",
