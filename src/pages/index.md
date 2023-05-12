@@ -34,7 +34,7 @@ import { Quiz, Image as QuizImage, Question, Answer, Result, Score as QuizScore 
 
 In der Reifekammer der Landfleischerei von Katharina Koch hängen die Mettwürste dicht an dicht über Monate hinweg. Mit Abwarten allein ist es aber nicht getan. Täglich muss das Metzgerteam den Reifeprozess beobachten und ständig reagieren. Unter dem Dach des alten Fachwerkhauses kommt dabei auch künstliche Intelligenz (KI) zum Einsatz.
 
-#### Macht KI die Arbeit leichter?
+#### Macht KI die Arbeit leichter? 
 
 Sensoren stecken in einigen Würsten. Sie messen Temperatur, Feuchtigkeit und PH-Wert, woraus die KI dann Schlüsse zieht, um beim Reifeprozess zu helfen. "Wir hoffen, dass die künstliche Intelligenz uns eine Arbeitserleichterung bringt", sagt Koch dem WDR.
 
