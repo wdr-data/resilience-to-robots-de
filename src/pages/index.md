@@ -54,6 +54,7 @@ Der Automations-Risiko-Index reicht theoretisch von 0,00 (kein Risiko) bis 1,00 
 Das geringste Automations-Risiko durch KI haben laut der Studie Physiker - das höchste Schlachter und Fleischverpacker. Auch Metzger haben demnach ein recht hohes Risiko, dass Tätigkeiten ihres Berufs ersetzt werden könnten. 
 
 Aber es gehe eben nur um bestimmte Tätigkeiten, sagt Immanuel König von der Uni Kassel dem WDR. Er betreut den Einsatz der KI in der Fleischerei Koch im hessischen Calden für ein [Forschungsprojekt](https://www.uni-kassel.de/uni/aktuelles/meldung/2022/11/23/kuenstliche-intelligenz-fuer-ahle-wurst-herstellung?cHash=58245447f47d03cdd4938249fe7e9fad). Die KI solle keinen ganzen Menschen ersetzen, betont er. "Das ist eine Assistenz."
+<figure role="group"><img src="Immanuel_Koenig.jpg" alt="Immanuel König von der Uni Kassel steht vor den Würsten in der Fleischerei, in denen Sensoren stecken." /><figcaption style="text-align: end;">Dr. Immanuel König, Uni Kassel</figcaption></figure>
 
 Die KI solle die Daten aus der Reifekammer analysieren, Muster erkennen und die Reifung abbilden, erklärt König. Man versuche, der KI dieses besondere Wissen über die Reifung der Ahle Wurscht beizubringen, das sich die Metzger über Jahre und Jahrhunderte angeeignet hätten. 
 
