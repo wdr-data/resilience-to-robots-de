@@ -33,7 +33,7 @@ export const Infobox = ({ children }) => {
   return (
     <div className={styles.container}>
       <button {...getToggleProps({ style: {} })}>
-        <span>{isExpanded ? "Erklärungstext" : "Erklärungstext"}</span>
+        <span>{"Mehr zur Studie"}</span>
         <span>
           <IconChevron direction={isExpanded ? "up" : "down"} />
         </span>
