@@ -40,11 +40,11 @@ Sensoren stecken in einigen Würsten. Sie messen Temperatur, Feuchtigkeit und PH
 
 Koch sieht die KI als Chance. Anderen bereitet sie Sorgen. Denn die Ausbreitung von künstlicher Intelligenz - vom Roboter in der Produktion bis hin zur frei verfügbaren Texterstellung mit ChatGPT - ist rasant. KI revolutioniert die Arbeitswelt. In Zukunft wird sie noch viel mehr menschliche Arbeit ersetzen als bisher.
 
-Welche Jobs sind durch künstliche Intelligenz und Roboter, in denen ja ebenfalls KI tickt, besonders bedroht? Das hat ein Forschungsteam aus Lausanne um den Robotiker Dario Floreano und den Ökonomen Rafael Lalive untersucht. Dafür verglich das Team Berufsprofile mit den Fähigkeiten von KI. Eine Auswahl der Studienergebnisse:
+Welche Jobs sind durch künstliche Intelligenz und Roboter, in denen ja ebenfalls KI tickt, besonders bedroht? Das hat ein Forschungsteam aus Lausanne um den Robotiker [Dario Floreano](https://people.epfl.ch/dario.floreano) und den Ökonomen [Rafael Lalive](https://wp.unil.ch/hecimpact/people/rafael-lalive/) untersucht. Dafür verglich das Team Berufsprofile mit den Fähigkeiten von KI. Eine Auswahl auf Deutsch aus dem [Online-Tool](http://lis2.epfl.ch/resiliencetorobots/) zur [Studie](https://www.science.org/doi/10.1126/scirobotics.abg5561):
 
 <JobChecker>
 
-Der Automations-Risiko-Index reicht theoretisch von 0,00 (kein Risiko) bis 1,00 (extremes Risiko). Praktisch liegt er aber bei allen untersuchten Berufen dazwischen. Für seine Studie von 2022 zur Auswirkung von KI auf die Arbeitswelt stützte sich das Forschungsteam der Hochschule EPFL und der Universität Lausanne auf die etwa 1.000 Berufe umfassende O*net-Datenbank für den US-amerikanischen Arbeitsmarkt.
+Der Automations-Risiko-Index reicht theoretisch von 0,00 (kein Risiko) bis 1,00 (extremes Risiko). Praktisch liegt er aber bei allen untersuchten Berufen dazwischen. Für seine Studie von 2022 zur Auswirkung von KI auf die Arbeitswelt stützte sich das Forschungsteam der Hochschule EPFL und der Universität Lausanne auf die etwa 1.000 Berufe umfassende [O*net-Datenbank]([https://www.onetcenter.org/database.html) für den US-amerikanischen Arbeitsmarkt.
 
 </JobChecker>
 
