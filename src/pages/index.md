@@ -58,7 +58,7 @@ Aber es gehe eben nur um bestimmte Tätigkeiten, sagt Immanuel König von der Un
 
 <figure role="group"><img src="Immanuel_Koenig.jpg" alt="Immanuel König von der Uni Kassel steht vor den Würsten in der Fleischerei, in denen Sensoren stecken." /><figcaption style="text-align: end;">Dr. Immanuel König, Uni Kassel</figcaption></figure>
 
-Die KI solle die Daten aus der Reifekammer analysieren, Muster erkennen und die Reifung abbilden, erklärt König. Man versuche, der KI dieses besondere Wissen über die Reifung der Ahle Wurscht beizubringen, das sich die Metzger über Jahre und Jahrhunderte angeeignet hätten. 
+Die KI solle die Daten aus der Reifekammer analysieren, Muster erkennen und die Reifung abbilden, erklärt König. Man versuche, der KI jenes Wissen zugänglich zu machen, dass sich die Metzger über Jahre und Jahrhunderte angeeignet hätten. Schließlich geht es nicht um irgendeine Mettwurst, sondern um die traditionelle hessische "Ahle Wurscht". Bewährt sich das KI-Projekt, könne man es auch für Käse, Wein und andere Reifeprozesse einsetzen.
 
 #### "Verwüstungen auf dem Arbeitsmarkt" durch KI? 
 
@@ -66,7 +66,7 @@ Die KI solle die Daten aus der Reifekammer analysieren, Muster erkennen und die 
 
 Eine [Studie der US-Bank Goldman Sachs](https://www.key4biz.it/wp-content/uploads/2023/03/Global-Economics-Analyst_-The-Potentially-Large-Effects-of-Artificial-Intelligence-on-Economic-Growth-Briggs_Kodnani.pdf) vom März erwartet durch KI einen Verlust von weltweit 300 Millionen Vollzeitarbeitsplätzen. Das Weltwirtschaftsforum geht in einem [Report vom Mai](https://www.weforum.org/reports/the-future-of-jobs-report-2023) davon aus, dass allein in den hoch entwickelten Industrieländern bis zum Jahr 2027 rund ein Achtel der untersuchten Arbeitsplätze wegfallen wird. Allerdings würden durch den Wandel auch Millionen neue Jobs entstehen.
 
-#### Bundesinstitut für Berufsorschung: "Nur Mut!"
+#### Bundesinstitut für Berufsforschung: "Nur Mut!"
 
 "Nutzen Sie die Chancen, die dieser Wandel mit sich bringt. Nur Mut!", ermuntert das Institut für Arbeitsmarkt- und Berufsforschung der Bundesagentur für Arbeit auf der Website seines [Job-Futuromaten](https://job-futuromat.iab.de/).
 
@@ -80,12 +80,14 @@ Nun sei sie es, die sich um die "Bewahrung der Tradition" bemühe, sagt Koch. Un
 
 <i>Über dieses Thema berichtet am 15.05.2023 auch die "Aktuelle Stunde" im WDR Fernsehen.</i>
 
-#### Mehr zum Thema:
+#### Mehr zum Thema beim WDR:
 
-WDR aktuell: [Deepfake-Quiz: Erkennen Sie alle KI-Bilder?](https://data.wdr.de/ddj/deepfake-quiz-erkennen-sie-alle-ki-bilder/)
+• [Deepfake-Quiz: Erkennen Sie alle KI-Bilder?](https://data.wdr.de/ddj/deepfake-quiz-erkennen-sie-alle-ki-bilder/)
 
-WDR aktuell: [Ist Künstliche Intelligenz eigentlich intelligent?](https://www1.wdr.de/nachrichten/ki-kuenstliche-intelligenz-chatgpt-faq-100.html)
+• [Ist Künstliche Intelligenz eigentlich intelligent?](https://www1.wdr.de/nachrichten/ki-kuenstliche-intelligenz-chatgpt-faq-100.html)
 
-WDR 5: [Dok 5 - Das Feature: Begrenzt genial - Künstliche Intelligenz am Arbeitsplatz](https://www1.wdr.de/mediathek/audio/wdr5/wdr5-dok5-das-feature/audio-begrenzt-genial---kuenstliche-intelligenz-am-arbeitsplatz-102.html)
+• [Dok 5 - Das Feature: Begrenzt genial - Künstliche Intelligenz am Arbeitsplatz](https://www1.wdr.de/mediathek/audio/wdr5/wdr5-dok5-das-feature/audio-begrenzt-genial---kuenstliche-intelligenz-am-arbeitsplatz-102.html)
+
+• [Kollege Roboter: Die Lösung für den Fachkräftemangel?](https://reportage.wdr.de/kollege-roboter-die-loesung-fuer-den-fachkraeftemangel)
 
 <Sharing twitter facebook mail whatsapp telegram reddit xing linkedin />
