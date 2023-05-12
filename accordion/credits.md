@@ -1,6 +1,7 @@
 ### Bildrechte:
 
--
+-- **Roboter:** WDR/Chromorange/newspixx vario images
+-- **Bilder aus Calden:** WDR
 
 ### Credits
 
