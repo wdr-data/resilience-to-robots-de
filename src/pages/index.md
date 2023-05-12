@@ -80,6 +80,7 @@ Nun sei sie es, die sich um die "Bewahrung der Tradition" bemühe, sagt Koch. Un
 
 <i>Über dieses Thema berichtet am 15.05.2023 auch die "Aktuelle Stunde" im WDR Fernsehen.</i>
 
-BITTE ALS LINKS MIT BILD:
-https://www1.wdr.de/nachrichten/ki-kuenstliche-intelligenz-chatgpt-faq-100.html
+Mehr zum Thema bei WDR aktuell:
+[Ist Künstliche Intelligenz eigentlich intelligent?](https://www1.wdr.de/nachrichten/ki-kuenstliche-intelligenz-chatgpt-faq-100.html)
+
 <Sharing twitter facebook mail whatsapp telegram reddit xing linkedin />
