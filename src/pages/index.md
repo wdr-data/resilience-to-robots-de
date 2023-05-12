@@ -1,6 +1,6 @@
 ---
-title: "KI und Jobs: Wie künstliche Intelligenz die Arbeitswelt verändert"
-description: ""
+title: "Wie künstliche Intelligenz die Arbeitswelt verändert"
+description: "KI und Jobs: Wie künstliche Intelligenz die Arbeitswelt verändert"
 author: ""
 pub_date: "2023-05-10"
 heroImage: "KI-Roboter.jpg"
