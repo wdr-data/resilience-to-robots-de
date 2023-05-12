@@ -38,9 +38,14 @@ In der Reifekammer der Landfleischerei von Katharina Koch hängen die Mettwürst
 
 Sensoren stecken in einigen Würsten. Sie messen Temperatur, Feuchtigkeit und PH-Wert, woraus die KI dann Schlüsse zieht, um beim Reifeprozess zu helfen. "Wir hoffen, dass die künstliche Intelligenz uns eine Arbeitserleichterung bringt", sagt Koch dem WDR.
 
-Koch sieht die KI als Chance. Anderen bereitet sie Sorgen. Denn die Ausbreitung von künstlicher Intelligenz - vom Roboter in der Produktion bis hin zur frei verfügbaren Texterstellung mit ChatGPT - ist rasant. KI revolutioniert die Arbeitswelt. In Zukunft wird sie noch viel mehr menschliche Arbeit ersetzen als bisher.
+Koch sieht die KI als Chance. Anderen bereitet sie Sorgen. Denn die Ausbreitung von künstlicher Intelligenz - vom Roboter im Restaurant bis hin zur frei verfügbaren Texterstellung mit [ChatGPT](https://www.quarks.de/podcast/quarks-daily-spezial-folge-88-was-koennen-chatbots-wie-chatgpt-wirklich-und-was-nicht/) - ist rasant. KI revolutioniert die Arbeitswelt. In Zukunft wird sie noch viel mehr menschliche Arbeit ersetzen als bisher.
+
+BITTE LINK MIT BILD: https://reportage.wdr.de/kollege-roboter-die-loesung-fuer-den-fachkraeftemangel
 
 Welche Jobs sind durch künstliche Intelligenz und Roboter, in denen ja ebenfalls KI tickt, besonders bedroht? Das hat ein Forschungsteam aus Lausanne um den Robotiker [Dario Floreano](https://people.epfl.ch/dario.floreano) und den Ökonomen [Rafael Lalive](https://wp.unil.ch/hecimpact/people/rafael-lalive/) untersucht. Dafür verglich das Team Berufsprofile mit den Fähigkeiten von KI. Eine Auswahl auf Deutsch aus dem [Online-Tool](http://lis2.epfl.ch/resiliencetorobots/) zur [Studie](https://www.science.org/doi/10.1126/scirobotics.abg5561):
+
+BITTE ÜBERSCHRIFT DIREKT IM JOBCECKER: 
+### Wie hoch ist das Automations-Risiko für diese Jobs?
 
 <JobChecker>
 
@@ -52,22 +57,28 @@ Der Automations-Risiko-Index reicht theoretisch von 0,00 (kein Risiko) bis 1,00 
 
 Das geringste Automations-Risiko durch KI haben laut der Studie Physiker - das höchste Schlachter und Fleischverpacker. Auch Metzger haben demnach ein recht hohes Risiko, dass Tätigkeiten ihres Berufs ersetzt werden könnten. 
 
-Aber es gehe eben nur um bestimmte Tätigkeiten, sagt Immanuel König dem WDR. Der Mitarbeiter der Uni Kassel betreut den Einsatz der KI in der Fleischerei im hessischen Calden für ein Forschungsprojekt. Die KI solle keinen ganzen Menschen ersetzen. "Das ist eine Assistenz", betont er.
+Aber es gehe eben nur um bestimmte Tätigkeiten, sagt Immanuel König von der Uni Kassel dem WDR. Er betreut den Einsatz der KI in der Fleischerei Koch im hessischen Calden für ein [Forschungsprojekt](https://www.uni-kassel.de/uni/aktuelles/meldung/2022/11/23/kuenstliche-intelligenz-fuer-ahle-wurst-herstellung?cHash=58245447f47d03cdd4938249fe7e9fad). Die KI solle keinen ganzen Menschen ersetzen, betont er. "Das ist eine Assistenz."
 
-Die KI solle die Daten aus der Reifekammer analysieren, Muster erkennen und die Reifung abbilden, erklärt König. Man versuche, der KI das besondere Wissen über die Reifung der Ahle Wurscht beizubringen, das sich die Metzger über Jahre und Jahrhunderte angeeignet hätten. 
+Die KI solle die Daten aus der Reifekammer analysieren, Muster erkennen und die Reifung abbilden, erklärt König. Man versuche, der KI dieses besondere Wissen über die Reifung der Ahle Wurscht beizubringen, das sich die Metzger über Jahre und Jahrhunderte angeeignet hätten. 
 
 #### Bringt KI "Verwüstungen auf dem Arbeitsmarkt"?
 
 Über die Chancen und Gefahren von künstlicher Intelligenz für die Arbeitswelt wird derzeit viel diskutiert. Man müsse mit "Verwüstungen auf dem Arbeitsmarkt" rechnen, warnte zum Beispiel im April der Geschäftsführer der privaten Bonner Wirtschafts-Akademie, Harald Müller.
 
-Eine Studie der US-Bank Goldman Sachs erwartet durch KI einen Verlust von weltweit 300 Millionen Vollzeitarbeitsplätzen. Das Weltwirtschaftsforum geht davon aus, dass allein in den hoch entwickelten Industrieländern bis zum Jahr 2027 rund ein Achtel der untersuchten Arbeitsplätze wegfallen wird. Allerdings würden durch den Wandel auch Millionen neue Jobs entstehen.
+Eine [Studie der US-Bank Goldman Sachs](https://www.key4biz.it/wp-content/uploads/2023/03/Global-Economics-Analyst_-The-Potentially-Large-Effects-of-Artificial-Intelligence-on-Economic-Growth-Briggs_Kodnani.pdf) von März erwartet durch KI einen Verlust von weltweit 300 Millionen Vollzeitarbeitsplätzen. Das Weltwirtschaftsforum geht in einem [Report vom Mai](https://www.weforum.org/reports/the-future-of-jobs-report-2023) davon aus, dass allein in den hoch entwickelten Industrieländern bis zum Jahr 2027 rund ein Achtel der untersuchten Arbeitsplätze wegfallen wird. Allerdings würden durch den Wandel auch Millionen neue Jobs entstehen.
 
 #### Arbeitsmarkt-Forscher: "Nur Mut!"
 
-"Nutzen Sie die Chancen, die dieser Wandel mit sich bringt. Nur Mut!", ermuntert das Institut für Arbeitsmarkt- und Berufsforschung der Bundesagentur für Arbeit auf der Website seines Job-Futuromaten.
+"Nutzen Sie die Chancen, die dieser Wandel mit sich bringt. Nur Mut!", ermuntert das Institut für Arbeitsmarkt- und Berufsforschung der Bundesagentur für Arbeit auf der Website seines [Job-Futuromaten](https://job-futuromat.iab.de/).
 
-Das Online-Tool der Behörde soll unter anderem bei der Berufswahl helfen. Es zeigt, wie sehr die "Kerntätigkeiten" von bestimmten Berufen nach heutigem Stand "automatisierbar" sind. Das geht zwar nicht so tief wie die Studie aus Lausanne, bietet aber noch andere nützliche Informationen - etwa dazu, welche konkreten Technologien die Berufe verändern.
+Das Online-Tool der Behörde soll unter anderem bei der Berufswahl helfen. Es zeigt, wie sehr die "Kerntätigkeiten" von bestimmten Berufen nach heutigem Stand automatisierbar sind. Das geht zwar nicht so tief wie die Studie aus Lausanne, bietet aber noch andere nützliche Informationen - etwa dazu, welche konkreten Technologien die Berufe verändern.
 
-Mit dem KI-Projekt in ihrer Wurstherstellung blickt Fleischerei-Chefin Katharina Koch jedenfalls optimistisch in die Zukunft. Vor einigen Jahren hatte sie Politikwissenschaft studiert und zunächst in dem Bereich gearbeitet. Dann kam ihr Vater auf sie zu, weil ihre großen Brüder die Nachfolge des Betriebs doch nicht antreten wollten. Nun kümmere sie sich um die "Bewahrung der Tradition". Dazu gehöre aber auch: Man müsse "immer mitdenken, sich weiterzuentwickeln". Das hätten ihre Vorgänger ja auch getan.
+#### Erst Politikwissenschaftlerin, dann Fleischei-Chefin
 
+Fleischerei-Chefin Katharina Koch blickt jedenfalls optimistisch in die Zukunft - auch mit KI. Vor einigen Jahren hatte sie Politikwissenschaft studiert und zunächst in dem Bereich gearbeitet. Dann kam ihr Vater auf sie zu, weil ihre großen Brüder die Nachfolge des Betriebs doch nicht antreten wollten. 
+
+Nun sei sie es, die sich um die "Bewahrung der Tradition" bemühe, sagt Koch. Und dazu gehöre eben auch: Man müsse "immer mitdenken, sich weiterzuentwickeln". Das hätten ihre Vorgänger schließlich auch getan.
+
+BITTE ALS LINKS MIT BILD:
+https://www1.wdr.de/nachrichten/ki-kuenstliche-intelligenz-chatgpt-faq-100.html
 <Sharing twitter facebook mail whatsapp telegram reddit xing linkedin />
