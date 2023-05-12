@@ -66,21 +66,21 @@ Die KI solle die Daten aus der Reifekammer analysieren, Muster erkennen und die 
 
 Eine [Studie der US-Bank Goldman Sachs](https://www.key4biz.it/wp-content/uploads/2023/03/Global-Economics-Analyst_-The-Potentially-Large-Effects-of-Artificial-Intelligence-on-Economic-Growth-Briggs_Kodnani.pdf) von März erwartet durch KI einen Verlust von weltweit 300 Millionen Vollzeitarbeitsplätzen. Das Weltwirtschaftsforum geht in einem [Report vom Mai](https://www.weforum.org/reports/the-future-of-jobs-report-2023) davon aus, dass allein in den hoch entwickelten Industrieländern bis zum Jahr 2027 rund ein Achtel der untersuchten Arbeitsplätze wegfallen wird. Allerdings würden durch den Wandel auch Millionen neue Jobs entstehen.
 
-#### Arbeitsmarkt-Forscher: "Nur Mut!"
+#### Bundesinstitut für Berufsorschung: "Nur Mut!"
 
 "Nutzen Sie die Chancen, die dieser Wandel mit sich bringt. Nur Mut!", ermuntert das Institut für Arbeitsmarkt- und Berufsforschung der Bundesagentur für Arbeit auf der Website seines [Job-Futuromaten](https://job-futuromat.iab.de/).
 
 Das Online-Tool der Behörde soll unter anderem bei der Berufswahl helfen. Es zeigt, wie sehr die "Kerntätigkeiten" von bestimmten Berufen nach heutigem Stand automatisierbar sind. Das geht zwar nicht so tief wie die Studie aus Lausanne, bietet aber noch andere nützliche Informationen - etwa dazu, welche konkreten Technologien die Berufe verändern.
 
-#### Erst Politikwissenschaftlerin, dann Fleischei-Chefin
+#### Erst Politikwissenschaftlerin, dann Fleischerei-Chefin
 
-Fleischerei-Chefin Katharina Koch blickt jedenfalls optimistisch in die Zukunft - auch mit KI. Vor einigen Jahren hatte sie Politikwissenschaft studiert und zunächst in dem Bereich gearbeitet. Dann kam ihr Vater auf sie zu, weil ihre großen Brüder die Nachfolge des Betriebs doch nicht antreten wollten. 
+Fleischerei-Inhaberin Katharina Koch blickt jedenfalls optimistisch in die Zukunft - auch mit KI. Vor einigen Jahren hatte sie Politikwissenschaft studiert und zunächst in dem Bereich gearbeitet. Dann kam ihr Vater auf sie zu, weil ihre großen Brüder die Nachfolge des Betriebs doch nicht antreten wollten. 
 
 Nun sei sie es, die sich um die "Bewahrung der Tradition" bemühe, sagt Koch. Und dazu gehöre eben auch: Man müsse "immer mitdenken, sich weiterzuentwickeln". Das hätten ihre Vorgänger schließlich auch getan.
 
 <i>Über dieses Thema berichtet am 15.05.2023 auch die "Aktuelle Stunde" im WDR Fernsehen.</i>
 
-Mehr zum Thema bei WDR aktuell:
+#### Mehr zum Thema bei WDR aktuell:
 [Ist Künstliche Intelligenz eigentlich intelligent?](https://www1.wdr.de/nachrichten/ki-kuenstliche-intelligenz-chatgpt-faq-100.html)
 
 <Sharing twitter facebook mail whatsapp telegram reddit xing linkedin />
