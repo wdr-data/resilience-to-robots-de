@@ -38,9 +38,8 @@ In der Reifekammer der Landfleischerei von Katharina Koch hängen die Mettwürst
 
 Sensoren stecken in einigen Würsten. Sie messen Temperatur, Feuchtigkeit und PH-Wert, woraus die KI dann Schlüsse zieht, um beim Reifeprozess zu helfen. "Wir hoffen, dass die künstliche Intelligenz uns eine Arbeitserleichterung bringt", sagt Koch dem WDR.
 
+Koch sieht die KI als Chance. Anderen bereitet sie Sorgen. Denn die Ausbreitung von künstlicher Intelligenz - vom [Roboter im Restaurant](https://reportage.wdr.de/kollege-roboter-die-loesung-fuer-den-fachkraeftemangel) bis hin zur frei verfügbaren Texterstellung mit [ChatGPT](https://www.quarks.de/podcast/quarks-daily-spezial-folge-88-was-koennen-chatbots-wie-chatgpt-wirklich-und-was-nicht/) - ist rasant. KI revolutioniert die Arbeitswelt. In Zukunft wird sie noch viel mehr menschliche Arbeit ersetzen als bisher. 
 <figure role="group"><img src="Katharina_Koch.jpg" alt="Katharina Koch steht in der Reifekammer ihrer Fleischerei" /><figcaption style="text-align: end;">Katharina Koch, Fleischerei-Inhaberin</figcaption></figure>
-
-Koch sieht die KI als Chance. Anderen bereitet sie Sorgen. Denn die Ausbreitung von künstlicher Intelligenz - vom [Roboter im Restaurant](https://reportage.wdr.de/kollege-roboter-die-loesung-fuer-den-fachkraeftemangel) bis hin zur frei verfügbaren Texterstellung mit [ChatGPT](https://www.quarks.de/podcast/quarks-daily-spezial-folge-88-was-koennen-chatbots-wie-chatgpt-wirklich-und-was-nicht/) - ist rasant. KI revolutioniert die Arbeitswelt. In Zukunft wird sie noch viel mehr menschliche Arbeit ersetzen als bisher.
 
 Welche Jobs sind durch künstliche Intelligenz und Roboter, in denen ja ebenfalls KI tickt, besonders bedroht? Das hat ein Forschungsteam aus Lausanne um den Robotiker [Dario Floreano](https://people.epfl.ch/dario.floreano) und den Ökonomen [Rafael Lalive](https://wp.unil.ch/hecimpact/people/rafael-lalive/) untersucht. Dafür verglich das Team Berufsprofile mit den Fähigkeiten von KI. Eine Auswahl auf Deutsch aus dem [Online-Tool](http://lis2.epfl.ch/resiliencetorobots/) zur [Studie](https://www.science.org/doi/10.1126/scirobotics.abg5561):
 
