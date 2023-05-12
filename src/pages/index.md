@@ -38,8 +38,9 @@ In der Reifekammer der Landfleischerei von Katharina Koch hängen die Mettwürst
 
 Sensoren stecken in einigen Würsten. Sie messen Temperatur, Feuchtigkeit und PH-Wert, woraus die KI dann Schlüsse zieht, um beim Reifeprozess zu helfen. "Wir hoffen, dass die künstliche Intelligenz uns eine Arbeitserleichterung bringt", sagt Koch dem WDR.
 
-Koch sieht die KI als Chance. Anderen bereitet sie Sorgen. Denn die Ausbreitung von künstlicher Intelligenz - vom [Roboter im Restaurant](https://reportage.wdr.de/kollege-roboter-die-loesung-fuer-den-fachkraeftemangel) bis hin zur frei verfügbaren Texterstellung mit [ChatGPT](https://www.quarks.de/podcast/quarks-daily-spezial-folge-88-was-koennen-chatbots-wie-chatgpt-wirklich-und-was-nicht/) - ist rasant. KI revolutioniert die Arbeitswelt. In Zukunft wird sie noch viel mehr menschliche Arbeit ersetzen als bisher. 
 <figure role="group"><img src="Katharina_Koch.jpg" alt="Katharina Koch steht in der Reifekammer ihrer Fleischerei" /><figcaption style="text-align: end;">Katharina Koch, Fleischerei-Inhaberin</figcaption></figure>
+
+Koch sieht die KI als Chance. Anderen bereitet sie Sorgen. Denn die Ausbreitung von künstlicher Intelligenz - vom [Roboter im Restaurant](https://reportage.wdr.de/kollege-roboter-die-loesung-fuer-den-fachkraeftemangel) bis hin zur frei verfügbaren Texterstellung mit [ChatGPT](https://www.quarks.de/podcast/quarks-daily-spezial-folge-88-was-koennen-chatbots-wie-chatgpt-wirklich-und-was-nicht/) - ist rasant. KI revolutioniert die Arbeitswelt. In Zukunft wird sie noch viel mehr menschliche Arbeit ersetzen als bisher. 
 
 Welche Jobs sind durch künstliche Intelligenz und Roboter, in denen ja ebenfalls KI tickt, besonders bedroht? Das hat ein Forschungsteam aus Lausanne um den Robotiker [Dario Floreano](https://people.epfl.ch/dario.floreano) und den Ökonomen [Rafael Lalive](https://wp.unil.ch/hecimpact/people/rafael-lalive/) untersucht. Dafür verglich das Team Berufsprofile mit den Fähigkeiten von KI. Eine Auswahl auf Deutsch aus dem [Online-Tool](http://lis2.epfl.ch/resiliencetorobots/) zur [Studie](https://www.science.org/doi/10.1126/scirobotics.abg5561):
 
@@ -54,6 +55,7 @@ Der Automations-Risiko-Index reicht theoretisch von 0,00 (kein Risiko) bis 1,00 
 Das geringste Automations-Risiko durch KI haben laut der Studie Physiker - das höchste Schlachter und Fleischverpacker. Auch Metzger haben demnach ein recht hohes Risiko, dass Tätigkeiten ihres Berufs ersetzt werden könnten. 
 
 Aber es gehe eben nur um bestimmte Tätigkeiten, sagt Immanuel König von der Uni Kassel dem WDR. Er betreut den Einsatz der KI in der Fleischerei Koch im hessischen Calden für ein [Forschungsprojekt](https://www.uni-kassel.de/uni/aktuelles/meldung/2022/11/23/kuenstliche-intelligenz-fuer-ahle-wurst-herstellung?cHash=58245447f47d03cdd4938249fe7e9fad). Die KI solle keinen ganzen Menschen ersetzen, betont er. "Das ist eine Assistenz."
+
 <figure role="group"><img src="Immanuel_Koenig.jpg" alt="Immanuel König von der Uni Kassel steht vor den Würsten in der Fleischerei, in denen Sensoren stecken." /><figcaption style="text-align: end;">Dr. Immanuel König, Uni Kassel</figcaption></figure>
 
 Die KI solle die Daten aus der Reifekammer analysieren, Muster erkennen und die Reifung abbilden, erklärt König. Man versuche, der KI dieses besondere Wissen über die Reifung der Ahle Wurscht beizubringen, das sich die Metzger über Jahre und Jahrhunderte angeeignet hätten. 
