@@ -80,9 +80,12 @@ Nun sei sie es, die sich um die "Bewahrung der Tradition" bemühe, sagt Koch. Un
 
 <i>Über dieses Thema berichtet am 15.05.2023 auch die "Aktuelle Stunde" im WDR Fernsehen.</i>
 
-#### Mehr zum Thema bei WDR aktuell:
+#### Mehr zum Thema:
 
-[Ist Künstliche Intelligenz eigentlich intelligent?](https://www1.wdr.de/nachrichten/ki-kuenstliche-intelligenz-chatgpt-faq-100.html)
-<br>[Dok 5 - Das Feature: Begrenzt genial - Künstliche Intelligenz am Arbeitsplatz](https://www1.wdr.de/mediathek/audio/wdr5/wdr5-dok5-das-feature/audio-begrenzt-genial---kuenstliche-intelligenz-am-arbeitsplatz-102.html)
+WDR aktuell: [Deepfake-Quiz: Erkennen Sie alle KI-Bilder?](https://data.wdr.de/ddj/deepfake-quiz-erkennen-sie-alle-ki-bilder/)
+
+WDR aktuell: [Ist Künstliche Intelligenz eigentlich intelligent?](https://www1.wdr.de/nachrichten/ki-kuenstliche-intelligenz-chatgpt-faq-100.html)
+
+WDR 5: [Dok 5 - Das Feature: Begrenzt genial - Künstliche Intelligenz am Arbeitsplatz](https://www1.wdr.de/mediathek/audio/wdr5/wdr5-dok5-das-feature/audio-begrenzt-genial---kuenstliche-intelligenz-am-arbeitsplatz-102.html)
 
 <Sharing twitter facebook mail whatsapp telegram reddit xing linkedin />
