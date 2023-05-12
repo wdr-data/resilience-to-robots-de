@@ -79,6 +79,9 @@ const JobChecker = ({ children }) => {
 
   return (
     <div className={styles.container}>
+      <h3 className={styles.title}>
+        Wie hoch ist das Automations-Risiko für diese Jobs?
+      </h3>
       <Autocomplete
         variant="soft"
         placeholder="Beruf suchen..."
