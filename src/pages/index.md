@@ -46,7 +46,7 @@ Wo genau? Welche Jobs sind durch künstliche Intelligenz und Roboter, in denen j
 
 <JobChecker>
 
-Der Automations-Risiko-Index reicht theoretisch von 0,00 (kein Risiko) bis 1,00 (extremes Risiko). Praktisch liegt er aber bei allen untersuchten Berufen dazwischen. Für seine Studie von 2022 zur Auswirkung von KI auf die Arbeitswelt stützte sich das Forschungsteam der Hochschule EPFL und der Universität Lausanne auf die etwa 1.000 Berufe umfassende [O*net-Datenbank]([https://www.onetcenter.org/database.html) für den US-amerikanischen Arbeitsmarkt.
+Der Automations-Risiko-Index reicht theoretisch von 0,00 (kein Risiko) bis 1,00 (extremes Risiko). Praktisch liegt er aber bei allen untersuchten Berufen dazwischen. Für seine [Studie](https://www.science.org/doi/10.1126/scirobotics.abg5561) von 2022 zur Auswirkung von KI auf die Arbeitswelt stützte sich das Forschungsteam der Hochschule EPFL und der Universität Lausanne auf die etwa 1.000 Berufe umfassende [O*net-Datenbank]([https://www.onetcenter.org/database.html) für den US-amerikanischen Arbeitsmarkt.
 
 </JobChecker>
 
