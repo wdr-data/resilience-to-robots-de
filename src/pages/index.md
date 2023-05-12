@@ -42,7 +42,7 @@ Sensoren stecken in einigen Würsten. Sie messen Temperatur, Feuchtigkeit und PH
 
 Koch sieht die KI als Chance. Anderen bereitet sie Sorgen. Denn die Ausbreitung von künstlicher Intelligenz - vom [Roboter im Restaurant](https://reportage.wdr.de/kollege-roboter-die-loesung-fuer-den-fachkraeftemangel) bis hin zur frei verfügbaren Texterstellung mit [ChatGPT](https://www.quarks.de/podcast/quarks-daily-spezial-folge-88-was-koennen-chatbots-wie-chatgpt-wirklich-und-was-nicht/) - ist rasant. KI revolutioniert die Arbeitswelt. In Zukunft wird sie noch viel mehr menschliche Arbeit ersetzen als bisher. 
 
-Welche Jobs sind durch künstliche Intelligenz und Roboter, in denen ja ebenfalls KI tickt, besonders bedroht? Das hat ein Forschungsteam aus Lausanne um den Robotiker [Dario Floreano](https://people.epfl.ch/dario.floreano) und den Ökonomen [Rafael Lalive](https://wp.unil.ch/hecimpact/people/rafael-lalive/) untersucht. Dafür verglich das Team Berufsprofile mit den Fähigkeiten von KI. Eine Auswahl auf Deutsch aus dem [Online-Tool](http://lis2.epfl.ch/resiliencetorobots/) zur [Studie](https://www.science.org/doi/10.1126/scirobotics.abg5561):
+Wo genau? Welche Jobs sind durch künstliche Intelligenz und Roboter, in denen ja ebenfalls KI tickt, besonders bedroht? Das hat ein Forschungsteam aus Lausanne um den Robotiker [Dario Floreano](https://people.epfl.ch/dario.floreano) und den Ökonomen [Rafael Lalive](https://wp.unil.ch/hecimpact/people/rafael-lalive/) untersucht. Dafür verglich das Team Berufsprofile mit den Fähigkeiten von KI. Eine Auswahl auf Deutsch aus dem [Online-Tool](http://lis2.epfl.ch/resiliencetorobots/) zur [Studie](https://www.science.org/doi/10.1126/scirobotics.abg5561):
 
 <JobChecker>
 
@@ -52,7 +52,7 @@ Der Automations-Risiko-Index reicht theoretisch von 0,00 (kein Risiko) bis 1,00 
 
 #### Hohes Risiko für Schlachter und Fleischverpacker
 
-Das geringste Automations-Risiko durch KI haben laut der Studie Physiker - das höchste Schlachter und Fleischverpacker. Auch Metzger haben demnach ein recht hohes Risiko, dass Tätigkeiten ihres Berufs ersetzt werden könnten. 
+Das geringste Automations-Risiko durch KI haben laut der Studie Physiker - das höchste Schlachter und Fleischverpacker. Auch Metzger haben demnach ein ziemlich hohes Risiko, dass Tätigkeiten ihres Berufs ersetzt werden könnten. 
 
 Aber es gehe eben nur um bestimmte Tätigkeiten, sagt Immanuel König von der Uni Kassel dem WDR. Er betreut den Einsatz der KI in der Fleischerei Koch im hessischen Calden für ein [Forschungsprojekt](https://www.uni-kassel.de/uni/aktuelles/meldung/2022/11/23/kuenstliche-intelligenz-fuer-ahle-wurst-herstellung?cHash=58245447f47d03cdd4938249fe7e9fad). Die KI solle keinen ganzen Menschen ersetzen, betont er. "Das ist eine Assistenz."
 
@@ -62,9 +62,9 @@ Die KI solle die Daten aus der Reifekammer analysieren, Muster erkennen und die 
 
 #### "Verwüstungen auf dem Arbeitsmarkt" durch KI? 
 
-Über die Chancen und Gefahren von künstlicher Intelligenz für die Arbeitswelt wird derzeit viel diskutiert. Man müsse mit "Verwüstungen auf dem Arbeitsmarkt" rechnen, warnte zum Beispiel im April der Geschäftsführer der privaten Bonner Wirtschafts-Akademie, Harald Müller.
+Über die Chancen und Gefahren von künstlicher Intelligenz für die Arbeitswelt wird derzeit viel diskutiert. Man müsse mit "Verwüstungen auf dem Arbeitsmarkt" rechnen, warnte zum Beispiel im April der Geschäftsführer der Bonner Wirtschafts-Akademie, Harald Müller.
 
-Eine [Studie der US-Bank Goldman Sachs](https://www.key4biz.it/wp-content/uploads/2023/03/Global-Economics-Analyst_-The-Potentially-Large-Effects-of-Artificial-Intelligence-on-Economic-Growth-Briggs_Kodnani.pdf) von März erwartet durch KI einen Verlust von weltweit 300 Millionen Vollzeitarbeitsplätzen. Das Weltwirtschaftsforum geht in einem [Report vom Mai](https://www.weforum.org/reports/the-future-of-jobs-report-2023) davon aus, dass allein in den hoch entwickelten Industrieländern bis zum Jahr 2027 rund ein Achtel der untersuchten Arbeitsplätze wegfallen wird. Allerdings würden durch den Wandel auch Millionen neue Jobs entstehen.
+Eine [Studie der US-Bank Goldman Sachs](https://www.key4biz.it/wp-content/uploads/2023/03/Global-Economics-Analyst_-The-Potentially-Large-Effects-of-Artificial-Intelligence-on-Economic-Growth-Briggs_Kodnani.pdf) vom März erwartet durch KI einen Verlust von weltweit 300 Millionen Vollzeitarbeitsplätzen. Das Weltwirtschaftsforum geht in einem [Report vom Mai](https://www.weforum.org/reports/the-future-of-jobs-report-2023) davon aus, dass allein in den hoch entwickelten Industrieländern bis zum Jahr 2027 rund ein Achtel der untersuchten Arbeitsplätze wegfallen wird. Allerdings würden durch den Wandel auch Millionen neue Jobs entstehen.
 
 #### Bundesinstitut für Berufsorschung: "Nur Mut!"
 
