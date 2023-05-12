@@ -60,7 +60,7 @@ Aber es gehe eben nur um bestimmte Tätigkeiten, sagt Immanuel König von der Un
 
 Die KI solle die Daten aus der Reifekammer analysieren, Muster erkennen und die Reifung abbilden, erklärt König. Man versuche, der KI dieses besondere Wissen über die Reifung der Ahle Wurscht beizubringen, das sich die Metzger über Jahre und Jahrhunderte angeeignet hätten. 
 
-#### Bringt KI "Verwüstungen auf dem Arbeitsmarkt"?
+#### "Verwüstungen auf dem Arbeitsmarkt" durch KI? 
 
 Über die Chancen und Gefahren von künstlicher Intelligenz für die Arbeitswelt wird derzeit viel diskutiert. Man müsse mit "Verwüstungen auf dem Arbeitsmarkt" rechnen, warnte zum Beispiel im April der Geschäftsführer der privaten Bonner Wirtschafts-Akademie, Harald Müller.
 
