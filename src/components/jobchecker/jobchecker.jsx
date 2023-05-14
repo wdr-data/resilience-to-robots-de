@@ -3,6 +3,7 @@ import Autocomplete from "@mui/joy/Autocomplete";
 import classNames from "classnames";
 import { matchSorter } from "match-sorter";
 
+import { sendEventClickAction, usePageConfig } from "../../lib/piano-analytics";
 import Tacho from "./tacho";
 import Infobox from "./infobox";
 
@@ -63,11 +64,39 @@ const JobChecker = ({ children }) => {
   const [job, setJob] = useState(null);
   const [previousJob, setPreviousJob] = useState(null);
   const [nextJob, setNextJob] = useState(null);
+  const pianoPageConfig = usePageConfig();
 
-  const handleSelect = useCallback((ev, job) => {
-    if (!job) return;
-    setJob(job);
-  }, []);
+  const handleSelect = useCallback(
+    (ev, newJob) => {
+      if (ev.type !== "click") return;
+      if (!newJob) return;
+
+      setJob(newJob);
+      sendEventClickAction(pianoPageConfig, {
+        clickText: "Beruf suchen",
+        clickTarget: newJob.name,
+      });
+    },
+    [pianoPageConfig],
+  );
+
+  const handleNext = useCallback(() => {
+    if (!nextJob) return;
+    setJob(nextJob);
+    sendEventClickAction(pianoPageConfig, {
+      clickText: "Nächster Beruf",
+      clickTarget: nextJob.name,
+    });
+  }, [nextJob, pianoPageConfig]);
+
+  const handlePrevious = useCallback(() => {
+    if (!previousJob) return;
+    setJob(previousJob);
+    sendEventClickAction(pianoPageConfig, {
+      clickText: "Vorheriger Beruf",
+      clickTarget: previousJob.name,
+    });
+  }, [previousJob, pianoPageConfig]);
 
   useEffect(() => {
     if (!job) return;
@@ -105,10 +134,10 @@ const JobChecker = ({ children }) => {
             <Tacho job={job} />
           </div>
           <div className={styles.navigation}>
-            <button disabled={!previousJob} onClick={() => setJob(previousJob)}>
+            <button disabled={!previousJob} onClick={handlePrevious}>
               <IconArrowRight /> Vorheriger
             </button>
-            <button disabled={!nextJob} onClick={() => setJob(nextJob)}>
+            <button disabled={!nextJob} onClick={handleNext}>
               Nächster <IconArrowRight />
             </button>
           </div>

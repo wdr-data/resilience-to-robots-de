@@ -1,6 +1,8 @@
-import React from "react";
+import React, { useCallback } from "react";
 import { useCollapse } from "react-collapsed";
 import classNames from "class-names";
+
+import { sendEventClickAction, usePageConfig } from "../../lib/piano-analytics";
 
 import styles from "./infobox.module.css";
 
@@ -26,8 +28,23 @@ const IconChevron = ({ direction }) => (
 );
 
 export const Infobox = ({ children }) => {
+  const pianoPageConfig = usePageConfig();
+
+  const handleTransitionStateChange = useCallback(
+    (state) => {
+      if (state === "expandEnd") {
+        sendEventClickAction(pianoPageConfig, {
+          clickText: "Mehr zur Studie",
+          clickTarget: "geöffnet",
+        });
+      }
+    },
+    [pianoPageConfig],
+  );
+
   const { getCollapseProps, getToggleProps, isExpanded } = useCollapse({
     defaultExpanded: false,
+    onTransitionStateChange: handleTransitionStateChange,
   });
 
   return (
