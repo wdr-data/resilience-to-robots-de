@@ -25,8 +25,8 @@ Link.propTypes = {
 export const LinkList = ({ links, ...rest }) => {
   return (
     <ul className={styles.linkList}>
-      {links.map(({ title, href }) => (
-        <li>
+      {links.map(({ title, href }, idx) => (
+        <li key={idx}>
           <a
             className={styles.link}
             href={href}
@@ -42,10 +42,12 @@ export const LinkList = ({ links, ...rest }) => {
 };
 
 LinkList.propTypes = {
-  links: {
-    title: PropTypes.string,
-    href: PropTypes.string,
-  },
+  links: PropTypes.arrayOf(
+    PropTypes.shape({
+      title: PropTypes.string,
+      href: PropTypes.string,
+    }),
+  ),
 };
 
 export default Link;
