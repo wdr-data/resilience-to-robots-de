@@ -2,7 +2,7 @@
 title: "Wie künstliche Intelligenz die Arbeitswelt verändert"
 description: "Künstliche Intelligenz revolutioniert die Arbeitswelt. In welchen Jobs könnten KI und Roboter menschliche Arbeit wie stark ersetzen? Ein interaktiver Blick auf mehr als 300 Berufe."
 author: "Jörn Seidel, Alexa Schulz, Jannes Höke"
-pub_date: "2023-05-10"
+pub_date: "2023-05-15"
 heroImage: "KI-Roboter.jpg"
 heroAlt: "Frontalansicht eines humanoiden Roboters"
 heroCredit: ""
