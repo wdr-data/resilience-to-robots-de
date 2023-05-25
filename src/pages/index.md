@@ -54,15 +54,15 @@ Aber es gehe eben nur um bestimmte Tätigkeiten, sagt Immanuel König von der Un
 
 <figure role="group"><img src="Immanuel_Koenig.jpg" alt="Immanuel König von der Uni Kassel steht vor den Würsten in der Fleischerei, in denen Sensoren stecken." /><figcaption style="text-align: end;">Dr. Immanuel König, Uni Kassel</figcaption></figure>
 
-Die KI solle die Daten aus der Reifekammer analysieren, Muster erkennen und die Reifung abbilden, erklärt König. Man versuche, der KI jenes Wissen zugänglich zu machen, dass sich die Metzger über Jahre und Jahrhunderte angeeignet hätten. Schließlich geht es nicht um irgendeine Mettwurst, sondern um die traditionelle hessische "Ahle Wurscht". Bewährt sich das KI-Projekt, könne man es auch für Käse, Wein und andere Reifeprozesse einsetzen.
+Die KI solle die Daten aus der Reifekammer analysieren, Muster erkennen und die Reifung abbilden, erklärt König. Man versuche, der KI jenes Wissen zugänglich zu machen, das sich die Metzger über Jahre und Jahrhunderte angeeignet hätten. Schließlich geht es nicht um irgendeine Mettwurst, sondern um die traditionelle hessische "Ahle Wurscht". Bewährt sich das KI-Projekt, könne man es auch für Käse, Wein und andere Reifeprozesse einsetzen.
 
-#### KI: Jobmaschine oder "Verwüstungen auf dem Arbeitsmarkt"?
+#### Ist KI Jobkiller oder Jobmaschine?
 
 Über die Chancen und Gefahren von künstlicher Intelligenz für die Arbeitswelt wird derzeit viel diskutiert. Man müsse mit "Verwüstungen auf dem Arbeitsmarkt" rechnen, warnte zum Beispiel im April der Geschäftsführer der Bonner Wirtschafts-Akademie, Harald Müller.
 
 Eine [Studie der US-Bank Goldman Sachs](https://www.key4biz.it/wp-content/uploads/2023/03/Global-Economics-Analyst_-The-Potentially-Large-Effects-of-Artificial-Intelligence-on-Economic-Growth-Briggs_Kodnani.pdf) vom März erwartet durch KI einen Verlust von weltweit 300 Millionen Vollzeitarbeitsplätzen.
 
-Das Weltwirtschaftsforum geht in seinem ["Future of Jobs Report 2023"](https://www.weforum.org/reports/the-future-of-jobs-report-2023) davon aus, dass allein in den hoch entwickelten Industrieländern bis zum Jahr 2027 rund ein Achtel der untersuchten Arbeitsplätze wegfallen wird. Allerdings würden durch den Wandel auch Millionen neue Jobs entstehen. Unterm Strich werde es durch KI sogar mehr Jobs geben, erwartet der größte Teil der für den Report befragten Unternehmen.
+Das Weltwirtschaftsforum geht in seinem ["Future of Jobs Report 2023"](https://www.weforum.org/reports/the-future-of-jobs-report-2023) davon aus, dass allein in den hoch entwickelten Industrieländern bis zum Jahr 2027 rund ein Achtel der untersuchten Arbeitsplätze wegfallen wird. Trotzdem: Nach Ansicht vieler Unternehmen werden unterm Strich mehr Jobs entstehen als wegfallen, heißt es in dem Report.
 
 <DataWrapper
         alt="Welche Auswirkungen wird die Nutzung von künstlicher Intelligenz auf das Beschäftigungswachstum in den Jahren 2022 bis 2027 haben? Laut einer Umfrage des Weltwirtschaftsforums sind die Erwartungen der Unternehmen überwiegend positiv (49 Prozent). 23 Prozent erwarten negative Auswirkungen, also weniger Jobs. 28 Prozent äußerten sich neutral zu den erwarteten Auswirkungen von KI auf das Beschäftigungswachstum."
@@ -70,9 +70,9 @@ Das Weltwirtschaftsforum geht in seinem ["Future of Jobs Report 2023"](https://w
         src="https://datawrapper.dwcdn.net/z6VV2/1/"
     />
 
-#### Unternehmensberater Buhse über KI: "Probieren Sie es einfach aus!"
+#### Unternehmensberater Buhse: Offen sein für KI
 
-"Das Gebot der Stunde ist, überhaupt erst einmal offen zu sein und sich mit dieser Technologie zu beschäftigen", sagt Gründer und Unternehmensberater Willms Buhse dem WDR. So könne man am besten seine Sorgen vor KI ablegen. ["Probieren Sie es einfach aus!", empfiehlt er](https://www1.wdr.de/mediathek/audio/wdr5/wdr5-morgenecho-interview/audio-kuenstliche-intelligenz-im-job-probierts-aus-100.html), zum Beispiel mit einem Programm wie ChatGPT.
+"Das Gebot der Stunde ist, überhaupt erst einmal offen zu sein und sich mit dieser Technologie zu beschäftigen", sagt Gründer und Unternehmensberater Willms Buhse dem WDR. So könne man am besten seine Sorgen vor KI ablegen. ["Probieren Sie es einfach aus!"](https://www1.wdr.de/mediathek/audio/wdr5/wdr5-morgenecho-interview/audio-kuenstliche-intelligenz-im-job-probierts-aus-100.html), empiehlt er, zum Beispiel mit ChatGPT.
 
 "Nutzen Sie die Chancen, die dieser Wandel mit sich bringt. Nur Mut!", ermuntert das Institut für Arbeitsmarkt- und Berufsforschung der Bundesagentur für Arbeit auf der Website seines [Job-Futuromaten](https://job-futuromat.iab.de/).
 
@@ -84,7 +84,7 @@ Fleischerei-Inhaberin Katharina Koch blickt jedenfalls optimistisch in die Zukun
 
 Nun sei sie es, die sich um die "Bewahrung der Tradition" bemühe, sagt Koch. Und dazu gehöre eben auch: Man müsse "immer mitdenken, sich weiterzuentwickeln". Das hätten ihre Vorgänger schließlich auch getan.
 
-*Über dieses Thema berichtet am 15.05.2023 auch die "Aktuelle Stunde" im WDR Fernsehen.*
+*Über dieses Thema berichteten am 15.05.2023 auch das ["Morgenecho"](https://www1.wdr.de/mediathek/audio/wdr5/wdr5-morgenecho-interview/audio-kuenstliche-intelligenz-im-job-probierts-aus-100.html) und ["Das Wirtschaftsmagazin"](https://www1.wdr.de/mediathek/audio/wdr5/wdr5-profit-aktuell/audio-ki-in-der-arbeitswelt-fallen-viele-jobs-jetzt-weg-100.html) bei WDR5.*
 
 #### Mehr zum Thema beim WDR
 
