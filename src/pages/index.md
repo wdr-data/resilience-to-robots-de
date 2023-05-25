@@ -21,6 +21,7 @@ import JobChecker from '../components/jobchecker/jobchecker.jsx'
 import Quote from '../components/quote/quote.jsx'
 import Sharing from '../components/sharing/sharing.jsx'
 import { Link, LinkList } from '../components/link/link.jsx'
+import DataWrapper from '../components/datawrapper/datawrapper.jsx'
 
 # So stark ist Ihr Job durch KI bedroht
 #### Künstliche Intelligenz revolutioniert die Arbeitswelt - mal weniger, mal mehr. In welchen Jobs könnten KI und Roboter menschliche Arbeit wie stark ersetzen? Ein interaktiver Blick auf mehr als 300 Berufe - und ein Besuch bei einer kleinen Fleischerei, die KI als große Chance sieht.
@@ -59,20 +60,14 @@ Die KI solle die Daten aus der Reifekammer analysieren, Muster erkennen und die 
 
 Über die Chancen und Gefahren von künstlicher Intelligenz für die Arbeitswelt wird derzeit viel diskutiert. Man müsse mit "Verwüstungen auf dem Arbeitsmarkt" rechnen, warnte zum Beispiel im April der Geschäftsführer der Bonner Wirtschafts-Akademie, Harald Müller.
 
-Eine [Studie der US-Bank Goldman Sachs](https://www.key4biz.it/wp-content/uploads/2023/03/Global-Economics-Analyst_-The-Potentially-Large-Effects-of-Artificial-Intelligence-on-Economic-Growth-Briggs_Kodnani.pdf) vom März erwartet durch KI einen Verlust von weltweit 300 Millionen Vollzeitarbeitsplätzen. 
+Eine [Studie der US-Bank Goldman Sachs](https://www.key4biz.it/wp-content/uploads/2023/03/Global-Economics-Analyst_-The-Potentially-Large-Effects-of-Artificial-Intelligence-on-Economic-Growth-Briggs_Kodnani.pdf) vom März erwartet durch KI einen Verlust von weltweit 300 Millionen Vollzeitarbeitsplätzen.
 
 Das Weltwirtschaftsforum geht in seinem ["Future of Jobs Report 2023"](https://www.weforum.org/reports/the-future-of-jobs-report-2023) davon aus, dass allein in den hoch entwickelten Industrieländern bis zum Jahr 2027 rund ein Achtel der untersuchten Arbeitsplätze wegfallen wird. Allerdings würden durch den Wandel auch Millionen neue Jobs entstehen. Unterm Strich werde es durch KI sogar mehr Jobs geben, erwartet der größte Teil der für den Report befragten Unternehmen.
 
-import DataWrapper from '../components/datawrapper/datawrapper.jsx'
-
 <DataWrapper
-
         alt="Welche Auswirkungen wird die Nutzung von künstlicher Intelligenz auf das Beschäftigungswachstum in den Jahren 2022 bis 2027 haben? Laut einer Umfrage des Weltwirtschaftsforums sind die Erwartungen der Unternehmen überwiegend positiv (49 Prozent). 23 Prozent erwarten negative Auswirkungen, also weniger Jobs. 28 Prozent äußerten sich neutral zu den erwarteten Auswirkungen von KI auf das Beschäftigungswachstum."
-
         title="Die meisten Unternehmen erwarten durch KI mehr Jobs"
-
         src="https://datawrapper.dwcdn.net/z6VV2/1/"
-
     />
 
 #### Unternehmensberater Buhse über KI: "Probieren Sie es einfach aus!"
