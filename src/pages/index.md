@@ -2,7 +2,7 @@
 title: "Wie künstliche Intelligenz die Arbeitswelt verändert"
 description: "Künstliche Intelligenz revolutioniert die Arbeitswelt. In welchen Jobs könnten KI und Roboter menschliche Arbeit wie stark ersetzen? Ein interaktiver Blick auf mehr als 300 Berufe."
 author: "Jörn Seidel, Alexa Schulz, Jannes Höke"
-pub_date: "2023-05-15"
+pub_date: "2023-05-25"
 heroImage: "KI-Roboter.jpg"
 heroAlt: "Frontalansicht eines humanoiden Roboters"
 heroCredit: ""
@@ -29,7 +29,7 @@ import { Link, LinkList } from '../components/link/link.jsx'
 
 In der Reifekammer der Landfleischerei von Katharina Koch hängen die Mettwürste dicht an dicht über Monate hinweg. Mit Abwarten allein ist es aber nicht getan. Täglich muss das Metzgerteam den Reifeprozess beobachten und ständig reagieren. Unter dem Dach des alten Fachwerkhauses kommt dabei auch künstliche Intelligenz (KI) zum Einsatz.
 
-#### Macht KI die Arbeit leichter?
+#### Macht künstliche Intelligenz die Arbeit leichter?
 
 Sensoren stecken in einigen Würsten. Sie messen Temperatur, Feuchtigkeit und PH-Wert, woraus die KI dann Schlüsse zieht, um beim Reifeprozess zu helfen. "Wir hoffen, dass die künstliche Intelligenz uns eine Arbeitserleichterung bringt", sagt Koch dem WDR.
 
@@ -55,19 +55,35 @@ Aber es gehe eben nur um bestimmte Tätigkeiten, sagt Immanuel König von der Un
 
 Die KI solle die Daten aus der Reifekammer analysieren, Muster erkennen und die Reifung abbilden, erklärt König. Man versuche, der KI jenes Wissen zugänglich zu machen, dass sich die Metzger über Jahre und Jahrhunderte angeeignet hätten. Schließlich geht es nicht um irgendeine Mettwurst, sondern um die traditionelle hessische "Ahle Wurscht". Bewährt sich das KI-Projekt, könne man es auch für Käse, Wein und andere Reifeprozesse einsetzen.
 
-#### "Verwüstungen auf dem Arbeitsmarkt" durch KI?
+#### KI: Jobmaschine oder "Verwüstungen auf dem Arbeitsmarkt"?
 
 Über die Chancen und Gefahren von künstlicher Intelligenz für die Arbeitswelt wird derzeit viel diskutiert. Man müsse mit "Verwüstungen auf dem Arbeitsmarkt" rechnen, warnte zum Beispiel im April der Geschäftsführer der Bonner Wirtschafts-Akademie, Harald Müller.
 
-Eine [Studie der US-Bank Goldman Sachs](https://www.key4biz.it/wp-content/uploads/2023/03/Global-Economics-Analyst_-The-Potentially-Large-Effects-of-Artificial-Intelligence-on-Economic-Growth-Briggs_Kodnani.pdf) vom März erwartet durch KI einen Verlust von weltweit 300 Millionen Vollzeitarbeitsplätzen. Das Weltwirtschaftsforum geht in einem [Report vom Mai](https://www.weforum.org/reports/the-future-of-jobs-report-2023) davon aus, dass allein in den hoch entwickelten Industrieländern bis zum Jahr 2027 rund ein Achtel der untersuchten Arbeitsplätze wegfallen wird. Allerdings würden durch den Wandel auch Millionen neue Jobs entstehen.
+Eine [Studie der US-Bank Goldman Sachs](https://www.key4biz.it/wp-content/uploads/2023/03/Global-Economics-Analyst_-The-Potentially-Large-Effects-of-Artificial-Intelligence-on-Economic-Growth-Briggs_Kodnani.pdf) vom März erwartet durch KI einen Verlust von weltweit 300 Millionen Vollzeitarbeitsplätzen. 
 
-#### Bundesinstitut für Berufsforschung: "Nur Mut!"
+Das Weltwirtschaftsforum geht in seinem ["Future of Jobs Report 2023"](https://www.weforum.org/reports/the-future-of-jobs-report-2023) davon aus, dass allein in den hoch entwickelten Industrieländern bis zum Jahr 2027 rund ein Achtel der untersuchten Arbeitsplätze wegfallen wird. Allerdings würden durch den Wandel auch Millionen neue Jobs entstehen. Unterm Strich werde es durch KI sogar mehr Jobs geben, erwartet der größte Teil der für den Report befragten Unternehmen.
+
+import DataWrapper from '../components/datawrapper/datawrapper.jsx'
+
+<DataWrapper
+
+        alt="Welche Auswirkungen wird die Nutzung von künstlicher Intelligenz auf das Beschäftigungswachstum in den Jahren 2022 bis 2027 haben? Laut einer Umfrage des Weltwirtschaftsforums sind die Erwartungen der Unternehmen überwiegend positiv (49 Prozent). 23 Prozent erwarten negative Auswirkungen, also weniger Jobs. 28 Prozent äußerten sich neutral zu den erwarteten Auswirkungen von KI auf das Beschäftigungswachstum."
+
+        title="Die meisten Unternehmen erwarten durch KI mehr Jobs"
+
+        src="https://datawrapper.dwcdn.net/z6VV2/1/"
+
+    />
+
+#### Unternehmensberater Buhse über KI: "Probieren Sie es einfach aus!"
+
+"Das Gebot der Stunde ist, überhaupt erst einmal offen zu sein und sich mit dieser Technologie zu beschäftigen", sagt Gründer und Unternehmensberater Willms Buhse dem WDR. So könne man am besten seine Sorgen vor KI ablegen. ["Probieren Sie es einfach aus!", empfiehlt er](https://www1.wdr.de/mediathek/audio/wdr5/wdr5-morgenecho-interview/audio-kuenstliche-intelligenz-im-job-probierts-aus-100.html), zum Beispiel mit einem Programm wie ChatGPT.
 
 "Nutzen Sie die Chancen, die dieser Wandel mit sich bringt. Nur Mut!", ermuntert das Institut für Arbeitsmarkt- und Berufsforschung der Bundesagentur für Arbeit auf der Website seines [Job-Futuromaten](https://job-futuromat.iab.de/).
 
-Das Online-Tool der Behörde soll unter anderem bei der Berufswahl helfen. Es zeigt, wie sehr die "Kerntätigkeiten" von bestimmten Berufen nach heutigem Stand automatisierbar sind. Das geht zwar nicht so tief wie die Studie aus Lausanne, bietet aber noch andere nützliche Informationen - etwa dazu, welche konkreten Technologien die Berufe verändern.
+Das Online-Tool der Behörde soll unter anderem bei der Berufswahl helfen. Es zeigt, wie sehr die "Kerntätigkeiten" von bestimmten Berufen nach heutigem Stand automatisierbar sind, insbesondere durch KI. Das geht zwar nicht so tief wie die Studie aus Lausanne, bietet aber noch andere nützliche Informationen - etwa dazu, welche konkreten Technologien die Berufe verändern.
 
-#### Erst Politikwissenschaftlerin, dann Fleischerei-Chefin
+#### Fleischerei-Chefin Koch: Man muss sich weiterentwickeln
 
 Fleischerei-Inhaberin Katharina Koch blickt jedenfalls optimistisch in die Zukunft - auch mit KI. Vor einigen Jahren hatte sie Politikwissenschaft studiert und zunächst in dem Bereich gearbeitet. Dann kam ihr Vater auf sie zu, weil ihre großen Brüder die Nachfolge des Betriebs doch nicht antreten wollten.
 
