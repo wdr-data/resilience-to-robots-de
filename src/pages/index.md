@@ -89,7 +89,9 @@ Nun sei sie es, die sich um die "Bewahrung der Tradition" bemühe, sagt Koch. Un
 #### Mehr zum Thema beim WDR
 
 <LinkList links={[
+    { href: "https://data.wdr.de/ddj/quiz-wie-gut-erkennen-sie-deepfakes/", title: "Deepfake-Quiz: Erkennen Sie alle KI-Videos und -Audios?" },
     { href: "https://data.wdr.de/ddj/deepfake-quiz-erkennen-sie-alle-ki-bilder/", title: "Deepfake-Quiz: Erkennen Sie alle KI-Bilder?" },
+    { href: "https://www1.wdr.de/nachrichten/deepfakes-100.html", title: "Deepfakes: Wir können unseren Augen und Ohren nicht mehr trauen" },
     { href: "https://www1.wdr.de/nachrichten/ki-kuenstliche-intelligenz-chatgpt-faq-100.html", title: "Ist Künstliche Intelligenz eigentlich intelligent?" },
     { href: "https://www1.wdr.de/mediathek/audio/wdr5/wdr5-dok5-das-feature/audio-begrenzt-genial---kuenstliche-intelligenz-am-arbeitsplatz-102.html", title: "Dok 5 - Das Feature: Begrenzt genial - Künstliche Intelligenz am Arbeitsplatz" },
     { href: "https://reportage.wdr.de/kollege-roboter-die-loesung-fuer-den-fachkraeftemangel", title: "Kollege Roboter: Die Lösung für den Fachkräftemangel?" },
